@@ -150,7 +150,3 @@ if __name__ == '__main__':
 
 with open('delta_with_sentiment.json', 'w') as out:
     json.dump(data, out)
-           .config/
-        .docker/
-        .profile
-        README-cloudshell.txt
