@@ -57,4 +57,4 @@ def sample_analyze_entities(text_content):
 
 if __name__ == '__main__':
     sample_analyze_entities("After revealing his secret identity to the public, Stark had to defend his unique, metallic property in front of the US Senate.")
-    
+     
