@@ -1,6 +1,4 @@
 steps:
-- name: gcr.io/cloud-builders/docker
-  args: ['build', '-t', 'gcr.io/$PROJECT_ID/$REPO_NAME:$BRANCH_NAME', '.']
 - name: 'gcr.io/cloud-builders/gcloud'
   args: ['app', 'deploy', '--version=prod']
 images: ['gcr.io/$PROJECT_ID/$REPO_NAME:$BRANCH_NAME']
