@@ -1,7 +1,7 @@
 import json
 
-input_file = 'southwestair.json'
-output_file = 'southwestair_parsed.json'
+input_file = 'data/southwestair.json'
+output_file = 'data/southwestair_parsed.json'
 
 new_data = {'items': []}
 
