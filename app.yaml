@@ -1,5 +1,5 @@
-runtime: custom
-env: flex
+runtime: python
+env: standard
 entrypoint: gunicorn -b :$PORT project_name.wsgi
 
 runtime_config:
