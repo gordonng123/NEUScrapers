@@ -2,18 +2,17 @@ from google.cloud import language_v1
 from google.cloud.language_v1 import enums
 
 
-def sample_analyze_sentiment(gcs_content_uri):
+def sample_analyze_sentiment(text_content):
     """
-    Analyzing Sentiment in text file stored in Cloud Storage
+    Analyzing Sentiment in a String
 
     Args:
-      gcs_content_uri Google Cloud Storage URI where the file content is located.
-      e.g. gs://[Your Bucket]/[Path to File]
+      text_content The text content to analyze
     """
 
     client = language_v1.LanguageServiceClient()
 
-    # gcs_content_uri = 'gs://cloud-samples-data/language/sentiment-positive.txt'
+    # text_content = 'I am so happy and joyful.'
 
     # Available types: PLAIN_TEXT, HTML
     type_ = enums.Document.Type.PLAIN_TEXT
@@ -22,7 +21,7 @@ def sample_analyze_sentiment(gcs_content_uri):
     # For list of supported languages:
     # https://cloud.google.com/natural-language/docs/languages
     language = "en"
-    document = {"gcs_content_uri": gcs_content_uri, "type": type_, "language": language}
+    document = {"content": text_content, "type": type_, "language": language}
 
     # Available values: NONE, UTF8, UTF16, UTF32
     encoding_type = enums.EncodingType.UTF8
@@ -46,5 +45,7 @@ def sample_analyze_sentiment(gcs_content_uri):
     # the automatically-detected language.
     print(u"Language of the text: {}".format(response.language))
 
+
+
 if __name__ == '__main__':
-    sample_analyze_sentiment(gcs_content_uri)
+    sample_analyze_sentiment('fuck you')

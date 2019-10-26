@@ -1,12 +1,16 @@
 {
-    "data" : [
+    "items" : [
     {
-    "comment": "hello world",
+    "text": "hello world",
     "time": 12345
     }, 
     {
-    "comment": "burn world",
+    "text": "fuck world.happy happy.",
     "time": 23142
+    },
+     {
+    "text": "真垃圾",
+    "time": 12391
     }
     ]
 }
