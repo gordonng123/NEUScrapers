@@ -59,7 +59,7 @@ def sample_analyze_sentiment(text_content, itemname):
     # the automatically-detected language.
     print(u"Language of the text: {}".format(response.language))
 
-def sample_analyze_entities(text_content, listname):
+def sample_analyze_entities(text_content, itemname):
     """
     Analyzing Entities in a String
 
@@ -135,7 +135,7 @@ if __name__ == '__main__':
     #reviews/exp.json
 
     #open the json file dataset 
-   with open('reviews/exp.json') as f:
+   with open('../data/delta_parsed.json') as f:
         data = json.load(f)
         #print(data) 
     
@@ -148,6 +148,9 @@ if __name__ == '__main__':
        sample_analyze_entities(x,distro)
 
 
-with open('newout.json', 'w') as out:
+with open('delta_with_sentiment.json', 'w') as out:
     json.dump(data, out)
-  
+           .config/
+        .docker/
+        .profile
+        README-cloudshell.txt
