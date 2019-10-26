@@ -67,7 +67,8 @@ def sample_analyze_sentiment(text_content, itemname):
 
 if __name__ == '__main__':
     # ../data/jetblue_parsed.json
-    with open('reviews/exp.json') as f:
+    # reviews/exp.json
+   with open('../data/jetblue_parsed.json') as f:
         data = json.load(f)
         print(data)
 
