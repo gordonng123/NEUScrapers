@@ -1,7 +1,7 @@
 import json
 
-input_file = 'data/southwestair.json'
-output_file = 'data/southwestair_parsed.json'
+input_file = 'southwestair.json'
+output_file = 'southwestair_parsed.json'
 
 new_data = {'items': []}
 
@@ -11,7 +11,8 @@ with open(input_file, encoding='utf-8', mode='r') as in_file:
 
 for gimage in data['GraphImages']:
     caption = {}
-    caption['text'] = gimage['edge_media_caption']['node']['text']
+    overcaption = gimage['edge_media_to_caption']['edges']
+    caption['text'] = overcaption[0]['node']['text']
     caption['time'] = gimage['taken_at_timestamp']
     new_data['items'].append(caption)
     for comment in gimage['edge_media_to_comment']['data']:
