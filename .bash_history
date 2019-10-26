@@ -241,3 +241,15 @@ git pull origin
 git pull yp
 git pull yp mastert
 git pull yp master
+git add .
+git commit -m "changes"
+git pull 
+git pull yp master
+git pull yp master -f
+git pull yp master --force
+git pull yp master --f
+git pull -f yp master
+git checkout .bash_history yp master
+git checkout yp master -- .bash_history
+nano .gitignore 
+git status
