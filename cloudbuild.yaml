@@ -1,6 +1,4 @@
 steps:
-- name: "docker.io/library/python:buster"
-  args: ['pip', 'install', '-r', 'requirements.txt'] 
 - name: "gcr.io/cloud-builders/gcloud"
   args: ["app", "deploy"]
-
+timeout: "1600s"
