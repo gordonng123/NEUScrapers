@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yaleproject",
+  "private_key_id": "d4b4a18b7f6ef40d659f245aa59b58c12e12ee2b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSBHqcRD2ohohH\nfL/YxGMB55ylvoonfHU/YR7dgTcdIQ2RxyvITL/Q4xZgJnWh02B0x3a8NJFPq17u\nG7LjBs5Sc4zPMRmW727Q1rqcvz4azfOcZjUDmdko3INmGmOJc7zmSASLg2xG4V1a\niFJCWI5AQ5XUhu/LLQLAdw4HhOEQLH9s6zfaLSQhLGl4MPqNnwtDrpOBs4FelUzb\ncgsaul5QTxpGgF+pRN/4gaQYL/20oosfztVL475z/XlyNWqW5HHEcLT9pygM4sZj\nlwNCY2P0Mhcphnz6gRO3526/VzSxk5WPW8YpvlUHipOeKpTu7EU+SJFzAsMA9wxA\nE9IeBcQfAgMBAAECggEAAhnAXjLCiR57W3ewdYsVUG4QH4pF2HpCs/UVOXLy6aws\ndhJPakv2OTEkRqbr00gJdXGPSvedonXc17XYNrQZOTLlrCbaEivn6FfVev7gsKTx\ntFVDX3tY9DMsb0eBSl0pfQYoYXrZiOX1KJQnenlnRtZGN993o4kaN3GZZtLZ6275\n2itgKmdLb9NweM9qwv3FeUl+3RiUCG2cVSw/R+Fo72uhuH7N1DK37g0dPjBSG/iE\njf5bQ6DMRIXuRwX5XhBgIW7EABu2xTDIRRnm6uuwxTIVt3sOjVb3m9n7rvh5Q4L1\nCjCCr9b2MLZlWzVH5Qr+Y9BOU2m4jhKQTbQquGxrYQKBgQD654hliKuvtd/r6SZz\nsn8uEgjMtsTT+o+cAdZr6+Qp0br9fFknGF9/oTeKwrF2zz5yqNnqC/sPIObMxKmO\nipsn1X2bJ1miA7FOdm4v1hKUOnoEn9B9+8DkRlaWdYBXCHHCTmxrzTGvD55IGhtG\nUwAdSuKu69xpyC1ck9n3gq0TfwKBgQDWSF9e/+Xi5TI1Ngp/qq802QGwsPvnxi/2\nc3M4B7VGuIw/G5JMSZqJog+ZHjUvGwp00sTIG155Te8cyAFCjN/2PLU56SkOLUw8\nahDM2mf5XNOjyzcOqDz7xIUdbq8iZtlcFMi81iUkoZRlcjyR2d3tcdtiJkb4pLnq\n7j00AWsfYQKBgDFUVi/IOCEavASw2TuEC5cuOoatJHOc3qFIhzS+syQ5tO7jhM+3\n7ga01qu0bZmzU07NvdJTOrAVwurde4yn2atyQPjBOtEssq5/gFhtWUfFW3oPRbmP\nRrRa0+lO/sWdxmfybUSgmjUV+AOrBlPEO9CGiZzkiHhPwANkmkUcbxTXAoGAcQdB\nzzF6CEHPRwQXa5oTyvOAkbv5VBtVJ1FkgDSIqSIlUBByDe1xJ5IlWiX19b/0twSK\nKedN4Px72RmimIEIjbEeAsr7DfBU2zUzYWr/FyigtjA1/XQ+nqrdcFX26VWI56pK\n7FikxPq59PzZ+DEMf/fjuZTpMLRrIQHDpM/uumECgYBRJBjgdp/8IPh61M48adEF\nHhG93qbX7nWtf/UjWHOY9HCVVAsn/DMfzkhTYigR+YhEDXZk8Ss3B9iCxrKy7QUf\naycEBF+KOAe/uM9merCrSvJ2gmqfbiccQe039cpZkTQhhV/V0AK4zNt5x+astXHy\nOM1OHxEI8tGrbb01aq+wvg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-wz3hnsfk4ofq@yaleproject.iam.gserviceaccount.com",
+  "client_id": "100138485563003604642",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-wz3hnsfk4ofq%40yaleproject.iam.gserviceaccount.com"
+}
