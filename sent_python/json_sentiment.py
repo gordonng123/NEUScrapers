@@ -10,7 +10,6 @@ from google.cloud import language_v1
 from google.cloud.language_v1 import enums
 
 
-
 def sample_analyze_sentiment(text_content, itemname):
     """
     Analyzing Sentiment in a String
@@ -37,8 +36,9 @@ def sample_analyze_sentiment(text_content, itemname):
 
     response = client.analyze_sentiment(document, encoding_type=encoding_type)
     # Get overall sentiment of the input document
-    print(u"Document sentiment score: {}".format(response.document_sentiment.score))
-    distro["sentiments"]=format(response.document_sentiment.score)
+    print(u"Document sentiment score: {}".format(
+        response.document_sentiment.score))
+    distro["sentiments"] = format(response.document_sentiment.score)
     print(
         u"Document sentiment magnitude: {}".format(
             response.document_sentiment.magnitude
@@ -46,42 +46,36 @@ def sample_analyze_sentiment(text_content, itemname):
     )
     # Get sentiment for all sentences in the document
     for sentence in response.sentences:
-        
+
         print(u"Sentence text: {}".format(sentence.text.content))
         print(u"Sentence sentiment score: {}".format(sentence.sentiment.score))
-        print(u"Sentence sentiment magnitude: {}".format(sentence.sentiment.magnitude))
+        print(u"Sentence sentiment magnitude: {}".format(
+            sentence.sentiment.magnitude))
 
     # Get the language of the text, which will be the same as
     # the language specified in the request or, if not specified,
     # the automatically-detected language.
     print(u"Language of the text: {}".format(response.language))
 
-
-
-
-    #document = types.Document(
+    # document = types.Document(
     #    content=content,
     #    type=enums.Document.Type.PLAIN_TEXT)
     # annotations = client.analyze_sentiment(document=document)
 
     # print(document)
-   
-
-   
 
 
 if __name__ == '__main__':
-    #../data/jetblue_parsed.json
-   with open('reviews/exp.json') as f:
+    # ../data/jetblue_parsed.json
+    with open('reviews/exp.json') as f:
         data = json.load(f)
-        print(data) 
+        print(data)
 
-   for distro in data['items']: 
-       x = distro['text']
-       #print(x)
+    for distro in data['items']:
+        x = distro['text']
+        # print(x)
 
-       sample_analyze_sentiment(x, distro)
+        sample_analyze_sentiment(x, distro)
 
 with open('newout.json', 'w') as out:
     json.dump(data, out)
-  
