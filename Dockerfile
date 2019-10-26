@@ -2,7 +2,7 @@ FROM python:3
 
 ENV MY_PARAMETER=""
 
-ADD main.py requirements.txt /
+ADD . / ./
 
 RUN pip install -r requirements.txt
 
