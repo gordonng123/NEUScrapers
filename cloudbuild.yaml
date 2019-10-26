@@ -1,6 +1,6 @@
 steps:
 - name: "docker.io/library/python:buster"
-  args: ['pip', 'install', '-t', '/workspace/lib', '/workspace/requirements.txt'] 
+  args: ['pip', 'install', '-r', 'requirements.txt'] 
 - name: "gcr.io/cloud-builders/gcloud"
   args: ["app", "deploy"]
 
