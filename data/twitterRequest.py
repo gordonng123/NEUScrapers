@@ -32,6 +32,7 @@ search_headers = {
 
 search_params = {
     'q': 'jetblue',
+    'tweet_mode':'extended'
 }
 
 search_url = '{}1.1/search/tweets.json'.format(base_url)
