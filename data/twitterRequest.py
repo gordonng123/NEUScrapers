@@ -32,17 +32,20 @@ search_headers = {
 
 search_params = {
     'q': 'jetblue',
-    'tweet_mode':'extended'
+    'tweet_mode':'extended',
+    'count':100
 }
 
 search_params2 = {
     'q': 'southwest airlines',
-    'tweet_mode':'extended'
+    'tweet_mode':'extended',
+    'count':100
 }
 
 search_params3 = {
     'q': 'delta airlines',
-    'tweet_mode':'extended'
+    'tweet_mode':'extended',
+    'count':100
 }
 
 search_url = '{}1.1/search/tweets.json'.format(base_url)
