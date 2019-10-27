@@ -27,6 +27,8 @@ from google.cloud.language_v1 import enums
 from google.cloud import storage
 from igramscraper.instagram import Instagram  # pylint: disable=no-name-in-module
 from google.oauth2 import service_account
+from google.cloud import bigtable
+
 
 def index(request):
     return HttpResponse(
