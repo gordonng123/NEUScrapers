@@ -36,4 +36,5 @@ import helloworld.views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', helloworld.views.index),
+    url(r'test/', helloworld.views.scrape)
 ]
