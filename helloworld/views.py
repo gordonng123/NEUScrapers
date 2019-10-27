@@ -13,22 +13,23 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import time
-import instagram_scraper as insta
-import json
-from subprocess import call
+
 from django.http import HttpResponse
-import subprocess
-from google.cloud import language
-from google.cloud.language import enums
-from google.cloud.language import types
+
+from igramscraper.instagram import Instagram  # pylint: disable=no-name-in-module
+
 from google.cloud import language_v1
 from google.cloud.language_v1 import enums
 from google.cloud import storage
-from igramscraper.instagram import Instagram  # pylint: disable=no-name-in-module
-from google.oauth2 import service_account
-from google.cloud import bigtable
 
+from google.cloud import bigtable
+from google.cloud.bigtable import column_family
+from google.cloud.bigtable import row_filters
+
+from google.cloud import bigquery
+
+
+import datetime
 
 def index(request):
     return HttpResponse(
@@ -46,30 +47,84 @@ def sc():
     # instagram.with_credentials('username', 'password', 'path/to/cache/folder')
     # instagram.login()
     proxies = {
-        'http': 'http://123.45.67.8:1087',
-        'https': 'http://123.45.67.8:1087',
+        'https': 'http://124.41.213.211',
+        'https': 'http://217.64.109.231',
     }
 
     medias = instagram.get_medias_by_tag('jetblue', count=20)
-
-    # for media in medias:
-    #    print(media)
-    ###   account = media.owner
-    #   print('Id', account.identifier)
-    # print('Username', account.username)
-    # print('Full Name', account.full_name)
-    # print('Profile Pic Url', account.get_profile_picture_url_hd())
-    #   print('--------------------------------------------------')
+    instagram.set_proxies(proxies)
     data = []
-    textArray = []
     for media in medias:
-        data.append({"time": media.created_time, "text": media.caption})
+        data.append((media.caption, media.created_time))
         # textArray.append(media.caption)
         # data_things = {data}
-        sample_analyze_sentiment(media.caption, data[-1])
+        # sample_analyze_sentiment(media.caption, data[-1])
+
+    """
+    table_id = "test"
+    bt_client = bigtable.Client(project='yaleproject', admin=True)
+    instance = bt_client.instance('instagram-jetblue')
+
+    print('Creating the {} table.'.format(table_id))
+    table = instance.table(table_id)
+
+    print('Creating column family cf1 with Max Version GC rule...')
+
+    max_versions_rule = column_family.MaxVersionsGCRule(2)
+    column_family_id = 'cf1'
+    column_families = {column_family_id: max_versions_rule}
+    if not table.exists():
+        table.create(column_families=column_families)
+    else:
+        print("Table {} already exists.".format(table_id))
+
+    print('Writing some greetings to the table.')
+    greetings = ['Hello World!', 'Hello Cloud Bigtable!', 'Hello Python!']
+    rows = []
+    column = 'greeting'.encode()
+    for i in range(1, 100000):
+        row_key = 'greeting{}'.format(i).encode()
+        row = table.row(row_key)
+        row.set_cell(column_family_id,
+                     column,
+                     'Hello World!{}'.format(i),
+                     timestamp=datetime.datetime.utcnow())
+        rows.append(row)
+    table.mutate_rows(rows)
+
+    row_filter = row_filters.CellsColumnLimitFilter(1)
+
+    print('Scanning for all greetings:')
+    partial_rows = table.read_rows(filter_=row_filter)
+
+    counter = 0
+    for row in partial_rows:
+        cell = row.cells[column_family_id][column][0]
+        print(cell.value.decode('utf-8'))
+    """
+
+    bq_client = bigquery.Client()
+
+    dataset_id = 'jetblue_instagram'  # replace with your dataset ID
+    # For this sample, the table must already exist and have a defined schema
+    table_id = 'testing'  # replace with your table ID
+    table_ref = bq_client.dataset(dataset_id).table(table_id)
+    table = bq_client.get_table(table_ref)  # API request
+
+    rows_to_insert = [
+        (u'Phred Phlyntstone', 32),
+        (u'Wylma Phlyntstone', 29),
+    ]
+
+    errors = bq_client.insert_rows(table, data)  # API request
+
+    assert errors == []
 
 
-def sample_analyze_sentiment(text_content, arrayName):
+
+
+
+def sample_analyze_sentiment(text_content, array_name):
     """
     Analyzing Sentiment in a String
 
@@ -77,31 +132,22 @@ def sample_analyze_sentiment(text_content, arrayName):
       text_content The text content to analyze
     """
 
-    storage_client = storage.Client.from_service_account_json(
-        'YaleProject-d4b4a18b7f6e.json')
+    l_client = language_v1.LanguageServiceClient()
 
-    client = language_v1.LanguageServiceClient().from_service_account_json(
-        'YaleProject-d4b4a18b7f6e.json')
 
-    # text_content = 'I am so happy and joyful.'
-
-    # Available types: PLAIN_TEXT, HTML
     type_ = enums.Document.Type.PLAIN_TEXT
 
-    # Optional. If not specified, the language is automatically detected.
-    # For list of supported languages:
-    # https://cloud.google.com/natural-language/docs/languages
     language = "en"
     document = {"content": text_content, "type": type_, "language": language}
 
     # Available values: NONE, UTF8, UTF16, UTF32
     encoding_type = enums.EncodingType.UTF8
 
-    response = client.analyze_sentiment(document, encoding_type=encoding_type)
+    response = l_client.analyze_sentiment(document, encoding_type=encoding_type)
     # Get overall sentiment of the input document
     print(u"Document sentiment score: {}".format(
         response.document_sentiment.score))
-    arrayName["sentiments"] = format(response.document_sentiment.score)
+    array_name["sentiments"] = format(response.document_sentiment.score)
     print(
         u"Document sentiment magnitude: {}".format(
             response.document_sentiment.magnitude
@@ -114,14 +160,4 @@ def sample_analyze_sentiment(text_content, arrayName):
         print(u"Sentence sentiment magnitude: {}".format(
             sentence.sentiment.magnitude))
 
-    # Get the language of the text, which will be the same as
-    # the language specified in the request or, if not specified,
-    # the automatically-detected language.
     print(u"Language of the text: {}".format(response.language))
-
-    # document = types.Document(
-    #    content=content,
-    #    type=enums.Document.Type.PLAIN_TEXT)
-    # annotations = client.analyze_sentiment(document=document)
-
-    # print(document)
