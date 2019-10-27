@@ -1,0 +1,523 @@
+{"text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "sentiments": "0.0", "time": 1571946229}
+{"text": "Aye RDU North Carolina gang", "time": 1571946844, "sentiments": "0.0", "keywords name": "North Carolina", "keywords type": "LOCATION"}
+{"text": "Idaho \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "time": 1571947096, "sentiments": "0.40000000596", "keywords name": "Idaho \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "keywords type": "ORGANIZATION"}
+{"text": "Great city and airline all in one.", "time": 1571947372, "sentiments": "0.800000011921", "keywords name": "one", "keywords type": "NUMBER"}
+{"text": "Would like to go to Detriot next year Manchaster", "time": 1571949223, "sentiments": "0.5", "keywords name": "Manchaster", "keywords type": "PERSON"}
+{"text": "DELTA - FOREVER!\ud83d\ude0d", "time": 1571949424, "sentiments": "0.300000011921", "keywords name": "FOREVER", "keywords type": "OTHER"}
+{"text": "Would love to with free airfare explanation point\ud83d\ude18\ud83c\udf08\ud83d\ude00", "time": 1571949798, "sentiments": "0.800000011921", "keywords name": "airfare explanation", "keywords type": "OTHER"}
+{"text": "Atlanta \ud83d\ude0d", "time": 1571951107, "sentiments": "0.20000000298", "keywords name": "Atlanta", "keywords type": "LOCATION"}
+{"text": "I am there already !", "sentiments": "0.10000000149", "time": 1571951789}
+{"text": "I had a horrible experience with @delta and now they are completely ignoring me the delta difference is horrible customer service and treating the customer like garbage", "time": 1571952264, "sentiments": "-0.899999976158", "keywords name": "customer service", "keywords type": "OTHER"}
+{"text": "@nickisam13 ME", "time": 1571952335, "sentiments": "0.10000000149", "keywords name": "@nickisam13 ME", "keywords type": "OTHER"}
+{"text": "@nickisam13 ill buy my fll ticket tomorrow boo", "time": 1571952358, "sentiments": "-0.5", "keywords name": "fll ticket", "keywords type": "OTHER"}
+{"text": "I was so excited to fly on Delta tomorrow from FCO to JFK and then I realized we don\u2019t have one free bag like we did coming here on @alitaliaofficial #neveragain #weareafamilyoffour #yuck", "time": 1571953651, "sentiments": "-0.699999988079", "keywords name": "one", "keywords type": "NUMBER"}
+{"text": "Love a little Lauderdale", "time": 1571955874, "sentiments": "0.800000011921", "keywords name": "Lauderdale", "keywords type": "PERSON"}
+{"text": "me", "sentiments": "0.10000000149", "time": 1571956962}
+{"text": "My hometown!", "time": 1571958398, "sentiments": "0.800000011921", "keywords name": "hometown", "keywords type": "LOCATION"}
+{"text": "Wow", "sentiments": "0.20000000298", "time": 1571961371}
+{"text": "@nish_shana", "time": 1571961845, "sentiments": "0.0", "keywords name": "@nish_shana", "keywords type": "OTHER"}
+{"text": "ugh yes my home state", "time": 1571962810, "sentiments": "-0.300000011921", "keywords name": "home state", "keywords type": "OTHER"}
+{"text": "\ud83d\udc4f", "sentiments": "0.10000000149", "time": 1571965421}
+{"text": "I'd fly to MYR", "time": 1571966843, "sentiments": "0.0", "keywords name": "MYR", "keywords type": "OTHER"}
+{"text": "#\u2764\ufe0f\u2764\ufe0fDeltaAirlines", "time": 1571968803, "sentiments": "0.0", "keywords name": "DeltaAirlines", "keywords type": "ORGANIZATION"}
+{"text": "We just got back from ours! Thanks Delta for the altitude attitude adjustment.  You warmed us up for a great beach week!\ud83c\udf34Love City\ud83c\udf34", "time": 1571972293, "sentiments": "0.20000000298", "keywords name": "Love City", "keywords type": "WORK_OF_ART"}
+{"text": "Anyone looking to travel to Caribbean\u2019s \u201cBahia Principe\u201d resorts @bahiaprincipehotels in Dominican Republic, Mexico and Jamaica should be aware of scammers called \u201cprivilege club\u201d, @bpprivilegeclub, operating at their premises. Their representatives, usually working at the resort\u2019s lobby, must be just ignored. They offer to attend so called \u201cno obligation presentation\u201d, where trained sales people trying their best to convince you purchase costly but in fact, absolutely unworthy membership with their \u201cclub\u201d for traveling to \u201cBahia\u201d resorts as a VIP member with allegedly a lot of benefits which in fact later, when there is no way back and money can not be returned, turns out to be nothing but lies. It\u2019s all huge  Fake and Fraud. Stay away from them and be safe!", "time": 1571972678, "sentiments": "-0.600000023842", "keywords name": "Bahia", "keywords type": "LOCATION"}
+{"text": "I hope to be there on Monday!", "sentiments": "0.20000000298", "time": 1571973149}
+{"text": "How about a \u2708 to #Hawaii", "time": 1571973154, "sentiments": "0.0", "keywords name": "#Hawaii", "keywords type": "OTHER"}
+{"text": "@mf_leftseat @adilali80 we should go together!", "time": 1571973407, "sentiments": "0.10000000149", "keywords name": "@adilali80", "keywords type": "OTHER"}
+{"text": "@zaheedelahi works by me", "time": 1571974089, "sentiments": "0.10000000149", "keywords name": "@zaheedelahi", "keywords type": "OTHER"}
+{"text": "Or for those of us from FLL, an autumn leaves trip?", "time": 1571974631, "sentiments": "0.20000000298", "keywords name": "FLL", "keywords type": "ORGANIZATION"}
+{"text": "prices lately from Vancouver Canada to the Citus State have been the most expensive. AA is starting to outsell UA and Delta combine to FLL and Miami for winter 2020 from Western Csnada .  their feb and March flights are 82% sold", "time": 1571976180, "sentiments": "0.0", "keywords name": "82", "keywords type": "NUMBER"}
+{"text": "Yasssss, First class, Waldorf Pink closets, convertible, beach, amaze dinner - sleep in with a view!  I\u2019m in!!!!!!", "time": 1571982615, "sentiments": "0.5", "keywords name": "view", "keywords type": "OTHER"}
+{"text": "Been  there.", "sentiments": "0.20000000298", "time": 1571986602}
+{"text": "Can some one tell me the best way to fly to Chicago from Manchester Airport", "time": 1571995631, "sentiments": "0.5", "keywords name": "one", "keywords type": "NUMBER"}
+{"text": "Ooh we definitely are after a few months exploring Europe!", "time": 1572007688, "sentiments": "0.5", "keywords name": "Europe", "keywords type": "LOCATION"}
+{"text": "FLL used to be a great stop before one headed to PTP, much prettier beaches than Ft Lauderdale.", "time": 1572009951, "sentiments": "0.20000000298", "keywords name": "one", "keywords type": "NUMBER"}
+{"text": "Is this ssn destin florida???", "time": 1572011164, "sentiments": "0.10000000149", "keywords name": "florida", "keywords type": "LOCATION"}
+{"text": "\ud83d\udcaf", "sentiments": "0.20000000298", "time": 1572017899}
+{"text": "@annaturner13 \ud83d\ude0d\ud83d\udc99", "time": 1572021653, "sentiments": "0.40000000596", "keywords name": "@annaturner13", "keywords type": "OTHER"}
+{"text": "Day to Pbi tomorrow!!!", "time": 1572023408, "sentiments": "0.0", "keywords name": "Pbi", "keywords type": "LOCATION"}
+{"text": "Lower your prices !", "time": 1572036172, "sentiments": "-0.10000000149", "keywords name": "prices", "keywords type": "OTHER"}
+{"text": "My home airport!", "time": 1572042387, "sentiments": "0.20000000298", "keywords name": "home airport", "keywords type": "LOCATION"}
+{"text": "@you_smiled_when_drew", "time": 1572045178, "sentiments": "0.0", "keywords name": "@you_smiled_when_drew", "keywords type": "OTHER"}
+{"text": "@delta 752s all day!", "time": 1572046168, "sentiments": "0.10000000149", "keywords name": "752", "keywords type": "NUMBER"}
+{"text": "@zaheedelahi works by me", "time": 1572061755, "sentiments": "0.10000000149", "keywords name": "@zaheedelahi", "keywords type": "OTHER"}
+{"text": "@zaheedelahi works by me", "time": 1572061756, "sentiments": "0.10000000149", "keywords name": "@zaheedelahi", "keywords type": "OTHER"}
+{"text": "@mf_leftseat", "time": 1572062118, "sentiments": "0.0", "keywords name": "@mf_leftseat", "keywords type": "OTHER"}
+{"text": "Ahh beautiful Florida \ud83d\ude4c", "time": 1572065613, "sentiments": "0.600000023842", "keywords name": "Florida", "keywords type": "LOCATION"}
+{"text": "Me!\ud83d\ude4b\u200d\u2642\ufe0f", "sentiments": "0.40000000596", "time": 1572094890}
+{"text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "time": 1572094894, "sentiments": "0.40000000596", "keywords name": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "keywords type": "OTHER"}
+{"text": "You mean nonstop?", "sentiments": "-0.10000000149", "time": 1571928499}
+{"text": "\ud83d\ude4c\ud83d\ude0d\ud83d\ude4f\ud83c\udffb\u2764\u2764\u2764\u2764", "time": 1571928724, "sentiments": "0.600000023842", "keywords name": "\ud83d\ude4c\ud83d\ude0d\ud83d\ude4f\ud83c\udffb\u2764\u2764\u2764\u2764", "keywords type": "PERSON"}
+{"text": "I have a Winter trip planned to DPS with you. The Premium Select Skymiles deal was too good to pass up!", "time": 1571928843, "sentiments": "0.40000000596", "keywords name": "deal", "keywords type": "OTHER"}
+{"text": "YES PLZ.", "time": 1571929525, "sentiments": "0.0", "keywords name": "YES", "keywords type": "ORGANIZATION"}
+{"text": "Pick me, pick me\u2764\ufe0f\u2764\ufe0f", "sentiments": "0.10000000149", "time": 1571929582}
+{"text": "@torres394  PLAYA", "time": 1571929690, "sentiments": "0.0", "keywords name": "PLAYA", "keywords type": "LOCATION"}
+{"text": "@amogg_d bro get this delta crap outta herrrreeee", "time": 1571929837, "sentiments": "-0.40000000596", "keywords name": "delta crap", "keywords type": "OTHER"}
+{"text": "@justbeing_oni my body aint ready tho \ud83d\ude2d", "time": 1571929982, "sentiments": "0.10000000149", "keywords name": "body", "keywords type": "OTHER"}
+{"text": "@torres394 they about to get whales", "time": 1571930016, "sentiments": "0.0", "keywords name": "whales", "keywords type": "OTHER"}
+{"text": "Counting down the days till my next trip with you guys! I really wanna shout out the crews at IND and ATL for the best, most smooth handling of my Permobil power chair. Accidents happen anywhere, but please know that Delta is the best option for travelers with wheelchairs! \ud83d\ude0d", "time": 1571930226, "sentiments": "0.600000023842", "keywords name": "anywhere", "keywords type": "LOCATION"}
+{"text": "I\u2019ll be there in January \ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f", "sentiments": "0.20000000298", "time": 1571930531}
+{"text": "I\u2019ll be there in January \ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f", "sentiments": "0.20000000298", "time": 1571930542}
+{"text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25", "sentiments": "0.600000023842", "time": 1571931099}
+{"text": "\u2764\ufe0f", "sentiments": "0.0", "time": 1571931125}
+{"text": "\ud83d\udc4f\ud83d\udc4f", "sentiments": "0.20000000298", "time": 1571931279}
+{"text": "Home \u2764", "time": 1571931344, "sentiments": "0.40000000596", "keywords name": "Home", "keywords type": "OTHER"}
+{"text": "@lauraclairee", "time": 1571932526, "sentiments": "0.0", "keywords name": "@lauraclairee", "keywords type": "OTHER"}
+{"text": "If it\u2019s on you I\u2019m flying", "sentiments": "0.20000000298", "time": 1571932742}
+{"text": "\u2764\ufe0f\ud83d\ude0e\ud83d\udc4c", "sentiments": "0.300000011921", "time": 1571933932}
+{"text": "@t_sells_al \ud83d\udc99", "time": 1571934030, "sentiments": "0.20000000298", "keywords name": "@t_sells_al", "keywords type": "OTHER"}
+{"text": "\ud83d\ude33 This is fire", "time": 1571934106, "sentiments": "0.10000000149", "keywords name": "fire", "keywords type": "OTHER"}
+{"text": "@delta you already I\u2019m ready! Beaches are for winter though! It\u2019s time for hiking!", "time": 1571934764, "sentiments": "0.300000011921", "keywords name": "hiking", "keywords type": "EVENT"}
+{"text": "@delta I sent u a private message about my horrible experience and it seems your ignoring it", "time": 1571934947, "sentiments": "-0.899999976158", "keywords name": "experience", "keywords type": "OTHER"}
+{"text": "What about Boise, Idaho!", "time": 1571935096, "sentiments": "0.0", "keywords name": "Idaho", "keywords type": "LOCATION"}
+{"text": "Been booked for a couple months. I leave CVG Sunday for FLL!", "time": 1571935111, "sentiments": "0.0", "keywords name": "CVG", "keywords type": "ORGANIZATION"}
+{"text": "We need some south Florida direct flights from BNA @delta pref to PBI", "time": 1571935169, "sentiments": "0.300000011921", "keywords name": "BNA @delta pref", "keywords type": "OTHER"}
+{"text": "@yogurtsandwich \ud83e\udd7a", "time": 1571935697, "sentiments": "0.0", "keywords name": "@yogurtsandwich", "keywords type": "OTHER"}
+{"text": "Winter travel, MEXICO!!!", "time": 1571935865, "sentiments": "0.300000011921", "keywords name": "MEXICO", "keywords type": "LOCATION"}
+{"text": "and with @delta of course!", "time": 1571935893, "sentiments": "0.20000000298", "keywords name": "course", "keywords type": "OTHER"}
+{"text": "\u2708\ufe0f\ud83d\udc99", "sentiments": "0.20000000298", "time": 1571936043}
+{"text": "Great picture", "time": 1571936164, "sentiments": "0.899999976158", "keywords name": "picture", "keywords type": "WORK_OF_ART"}
+{"text": "\ud83d\ude4b\u200d\u2640\ufe0f", "time": 1571936375, "sentiments": "0.20000000298", "keywords name": "\ud83d\ude4b\u200d\u2640\ufe0f", "keywords type": "OTHER"}
+{"text": "PERFECT... I'VE BEEN THERE", "sentiments": "0.600000023842", "time": 1571936520}
+{"text": "Thank you for the repost \u2764\ufe0fdefinitely missing this trip about now!", "time": 1571936922, "sentiments": "0.699999988079", "keywords name": "trip", "keywords type": "EVENT"}
+{"text": "@fernando.freddie  we are", "time": 1571938262, "sentiments": "0.0", "keywords name": "@fernando.", "keywords type": "PERSON"}
+{"text": "@mookie_in_the_city yasssssssss! This would be so much fun!", "time": 1571938528, "sentiments": "0.5", "keywords name": "fun", "keywords type": "OTHER"}
+{"text": "@lindapaisley", "time": 1571938956, "sentiments": "0.0", "keywords name": "@lindapaisley", "keywords type": "OTHER"}
+{"text": "\ud83d\udc68\ud83c\udffb\u200d\u2708\ufe0f\ud83d\udc69\ud83c\udffc\u200d\u2708\ufe0f\ud83d\ude0d\ud83d\udc4d\ud83c\udffb", "time": 1571939170, "sentiments": "0.600000023842", "keywords name": "\ud83d\udc68\ud83c\udffb\u200d\u2708\ufe0f\ud83d\udc69\ud83c\udffc\u200d\u2708\ufe0f\ud83d\ude0d\ud83d\udc4d\ud83c\udffb", "keywords type": "PERSON"}
+{"text": "Meeeeeee!!!", "sentiments": "0.0", "time": 1571940763}
+{"text": "Flying there next week\u2728", "sentiments": "0.10000000149", "time": 1571941034}
+{"text": "757\ud83d\ude24\ud83d\ude24", "time": 1571941799, "sentiments": "-0.40000000596", "keywords name": "757", "keywords type": "NUMBER"}
+{"text": "Me me me!!!", "sentiments": "0.5", "time": 1571942137}
+{"text": "\ud83d\udc99 Home \ud83d\udc99", "time": 1571942236, "sentiments": "0.300000011921", "keywords name": "Home", "keywords type": "OTHER"}
+{"text": "@delta Why aren't there any direct flights from LAX to FLL or MIA??", "time": 1571943758, "sentiments": "-0.699999988079", "keywords name": "FLL", "keywords type": "ORGANIZATION"}
+{"text": "@amogg_d bro get this delta crap outta herrrreeee", "time": 1571943772, "sentiments": "-0.40000000596", "keywords name": "delta crap", "keywords type": "OTHER"}
+{"text": "Lower your fairs so the people can all travel anytime anywhere period", "time": 1571944127, "sentiments": "0.800000011921", "keywords name": "people", "keywords type": "PERSON"}
+{"text": "Amazing! \u2728\ud83d\udc99\u2708", "sentiments": "0.600000023842", "time": 1571944250}
+{"text": "Gotta love going tropical mood \ud83d\udc20\ud83c\udf34\ud83c\udf34\ud83d\udeec\ud83d\udeec\u2600\ufe0f\u2600\ufe0f\ud83e\udd6d\ud83e\udd6d", "time": 1571945323, "sentiments": "0.800000011921", "keywords name": "\ud83c\udf34\ud83c\udf34\ud83d\udeec\ud83d\udeec\u2600\ufe0f\u2600\ufe0f\ud83e\udd6d\ud83e\udd6d", "keywords type": "PERSON"}
+{"text": "#mybackyard", "time": 1571945664, "sentiments": "0.0", "keywords name": "mybackyard", "keywords type": "LOCATION"}
+{"text": "Only if it\u2019s an Airbus \ud83d\ude09", "time": 1571945691, "sentiments": "0.20000000298", "keywords name": "Airbus", "keywords type": "ORGANIZATION"}
+{"text": "\ud83d\ude4b\ud83c\udffc\u200d\u2640\ufe0f", "time": 1571925666, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude4b\ud83c\udffc\u200d\u2640\ufe0f", "keywords type": "OTHER"}
+{"text": "Meeee\ud83d\ude0d\ud83d\ude4c\ud83c\udffc", "time": 1571925702, "sentiments": "0.800000011921", "keywords name": "Meeee\ud83d\ude0d\ud83d\ude4c\ud83c\udffc", "keywords type": "PERSON"}
+{"text": "Missed flying Delta Airlines...\ud83d\udc4d", "time": 1571925731, "sentiments": "0.10000000149", "keywords name": "Delta Airlines", "keywords type": "ORGANIZATION"}
+{"text": "@suleman_86 \ud83c\udfc4\ud83c\udffc\u200d\u2642\ufe0f\u2708\ufe0f\ud83c\udfd6", "time": 1571925771, "sentiments": "0.300000011921", "keywords name": "86", "keywords type": "NUMBER"}
+{"text": "\ud83d\ude4b\ud83c\udffd\u200d\u2642\ufe0f", "time": 1571925773, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude4b\ud83c\udffd\u200d\u2642\ufe0f", "keywords type": "ORGANIZATION"}
+{"text": "#delta #keepclimbing #deltaproud #skymileslife #avgeek #aviation #aviationphotography #aircraft #instaaviation #instagramaviation #planes #aviationdaily #aviationlovers #travel #fortlauderdale #florida #windowseat #photoginflight #wingpic #wingshot", "time": 1571925797, "sentiments": "0.20000000298", "keywords name": "#aviationlovers #travel #fortlauderdale", "keywords type": "OTHER"}
+{"text": "\ud83d\ude4c\ud83d\ude4c", "sentiments": "0.40000000596", "time": 1571925940}
+{"text": "@tamara_floyd", "time": 1571925951, "sentiments": "0.0", "keywords name": "@tamara_floyd", "keywords type": "OTHER"}
+{"text": "Me!", "sentiments": "0.300000011921", "time": 1571925980}
+{"text": "\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f", "time": 1571925983, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f", "keywords type": "ORGANIZATION"}
+{"text": "Sure, @delta ! When do you wanna go?", "time": 1571926060, "sentiments": "0.0", "keywords name": "@delta", "keywords type": "ORGANIZATION"}
+{"text": "@clara_diazz", "time": 1571926103, "sentiments": "0.0", "keywords name": "@clara_diazz", "keywords type": "OTHER"}
+{"text": "@jessiem00re", "time": 1571926185, "sentiments": "0.0", "keywords name": "@jessiem00re", "keywords type": "OTHER"}
+{"text": "@ciaraklein all aboard", "time": 1571926237, "sentiments": "0.0", "keywords name": "@ciaraklein", "keywords type": "OTHER"}
+{"text": "@que \ud83d\ude4b\u200d\u2642\ufe0f", "time": 1571926503, "sentiments": "0.20000000298", "keywords name": "@que \ud83d\ude4b\u200d\u2642\ufe0f", "keywords type": "OTHER"}
+{"text": "@brooke.oman home sweet home <33", "time": 1571926836, "sentiments": "0.5", "keywords name": "33", "keywords type": "NUMBER"}
+{"text": "I'm coming \ud83d\udc4f\ud83d\ude0e", "sentiments": "0.300000011921", "time": 1571926869}
+{"text": "Wonderful Pic \ud83d\udc4d", "time": 1571926877, "sentiments": "0.800000011921", "keywords name": "Wonderful Pic", "keywords type": "WORK_OF_ART"}
+{"text": "Meeeee! \ud83d\udc9f", "sentiments": "0.10000000149", "time": 1571927015}
+{"text": "@swoodsyy", "time": 1571927090, "sentiments": "0.0", "keywords name": "@swoodsyy", "keywords type": "OTHER"}
+{"text": "@wwmccartney \ud83d\ude4b\ud83c\udffc\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffc\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffc\u200d\u2640\ufe0f", "time": 1571927100, "sentiments": "0.300000011921", "keywords name": "@wwmccartney \ud83d\ude4b\ud83c\udffc\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffc\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffc\u200d\u2640\ufe0f", "keywords type": "PERSON"}
+{"text": "With the 13 months my family has been through, I can go ANYWHERE \ud83d\ude02", "time": 1571927188, "sentiments": "0.40000000596", "keywords name": "13", "keywords type": "NUMBER"}
+{"text": "I can see the Rock Bar", "time": 1571927261, "sentiments": "0.40000000596", "keywords name": "Rock Bar", "keywords type": "OTHER"}
+{"text": "@jacobrbeard @al3cwhit3 @nromeo14 @lone_chain @nburke3422 @dlip022", "time": 1571927313, "sentiments": "0.0", "keywords name": "@nburke3422", "keywords type": "OTHER"}
+{"text": "@sonoraamk let\u2019s go", "time": 1571927431, "sentiments": "0.0", "keywords name": "@sonoraamk", "keywords type": "PERSON"}
+{"text": "\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f", "time": 1571927505, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f", "keywords type": "PERSON"}
+{"text": "\ud83c\uddf0\ud83c\uddf7", "sentiments": "0.300000011921", "time": 1572030576}
+{"text": "@delta are these routes operated by the 77L ?", "time": 1572030959, "sentiments": "0.0", "keywords name": "77", "keywords type": "NUMBER"}
+{"text": "One of my favorite places in Seoul", "time": 1572031875, "sentiments": "0.899999976158", "keywords name": "One", "keywords type": "NUMBER"}
+{"text": "This is the second time.iv been on a Delta flight, kept on the tarmac for two hours, then deplaned , then moved Gates and delayed two hours. Soo", "time": 1572034474, "sentiments": "-0.300000011921", "keywords name": "two", "keywords type": "NUMBER"}
+{"text": "\ud83c\udf0d", "sentiments": "0.10000000149", "time": 1572036906}
+{"text": "Love Seoul had such a great experience. @delta first class was awesome. \u274c\u2b55\ufe0f", "time": 1572037002, "sentiments": "0.600000023842", "keywords name": "class", "keywords type": "EVENT"}
+{"text": "I wish I was there", "sentiments": "0.20000000298", "time": 1572038703}
+{"text": "@samanthagiordanokim @tjkima", "time": 1572040090, "sentiments": "0.0", "keywords name": "@tjkima", "keywords type": "OTHER"}
+{"text": "@oris2626 I went to to Tel Aviv last week and it\u2019s a really good place in Israel.Try San Francisco to JFK to Tel Aviv", "time": 1572040250, "sentiments": "0.899999976158", "keywords name": "Israel.", "keywords type": "LOCATION"}
+{"text": "After all the bs Delta put us thru we're at the airport. Planes are OVER booked, most aren't on schedule and they're super unorganized and slow. NEVER flying Delta again. First and LAST time.", "time": 1572040773, "sentiments": "-0.20000000298", "keywords name": "schedule", "keywords type": "OTHER"}
+{"text": "@giankymilano A359", "time": 1572041140, "sentiments": "0.0", "keywords name": "@giankymilano A359", "keywords type": "OTHER"}
+{"text": "\ud83d\ude0d\ud83d\ude0d\ud83d\udc4d\ud83d\udc4d\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7", "time": 1572041173, "sentiments": "0.699999988079", "keywords name": "\ud83d\ude0d\ud83d\ude0d\ud83d\udc4d\ud83d\udc4d\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7", "keywords type": "PERSON"}
+{"text": "Loved that village", "time": 1572041199, "sentiments": "0.800000011921", "keywords name": "village", "keywords type": "LOCATION"}
+{"text": "\ud83d\ude0d", "sentiments": "0.300000011921", "time": 1572041521}
+{"text": "@tbadiang_viena", "time": 1572044214, "sentiments": "0.0", "keywords name": "@tbadiang_viena", "keywords type": "OTHER"}
+{"text": "Love Seoul!", "time": 1572046072, "sentiments": "0.800000011921", "keywords name": "Love Seoul", "keywords type": "LOCATION"}
+{"text": "Peep the quad engine jet", "time": 1572049517, "sentiments": "0.40000000596", "keywords name": "quad engine jet", "keywords type": "OTHER"}
+{"text": "@azaaron20 When did you and @4sammyjo go to Seoul?", "time": 1572050066, "sentiments": "0.0", "keywords name": "4", "keywords type": "NUMBER"}
+{"text": "@jayraquidan They fly to Manila via Tokyo now and will fly from Seoul, starting next March.", "time": 1572051155, "sentiments": "0.0", "keywords name": "Seoul", "keywords type": "LOCATION"}
+{"text": "@spotter_dongone yeah I know I\u2019m glad they didn\u2019t get rid of the Philippines flight", "time": 1572051195, "sentiments": "-0.20000000298", "keywords name": "Philippines", "keywords type": "LOCATION"}
+{"text": "@spotter_dongone I meant the Philippines is one of their destinations however nothing is advertised", "time": 1572051232, "sentiments": "-0.699999988079", "keywords name": "one", "keywords type": "NUMBER"}
+{"text": "@jayraquidan I'm not sure about why the Philipines isn't advertised, but I think the social media team decides where to advertise and they might have already advertised Manila. Still, I'm not a employee of the airline, so I don't know the specific reason.", "time": 1572051613, "sentiments": "-0.40000000596", "keywords name": "employee", "keywords type": "PERSON"}
+{"text": "@spotter_dongone I look at all the Delta Ads and I have yet to see Manila", "time": 1572051653, "sentiments": "-0.699999988079", "keywords name": "Manila", "keywords type": "LOCATION"}
+{"text": "@jayraquidan I think they will do it soon as they'll resume their Seoul-Manila route which was served by Northwest until 1994 in a few months.", "time": 1572051841, "sentiments": "0.0", "keywords name": "1994", "keywords type": "NUMBER"}
+{"text": "@oris2626 Uh, never! Neither are Delta hubs.", "time": 1572053862, "sentiments": "-0.300000011921", "keywords name": "Delta", "keywords type": "ORGANIZATION"}
+{"text": "YEAH\ud83d\udc40", "sentiments": "0.40000000596", "time": 1572055737}
+{"text": "That looks beautiful I have always wanted to go to foreign countries. Hey @delta how long of a plane flight would it be to go from Florida to Seoul?", "time": 1572056627, "sentiments": "0.20000000298", "keywords name": "Seoul", "keywords type": "LOCATION"}
+{"text": "Check out the inbox please , immediately", "time": 1572060901, "sentiments": "-0.20000000298", "keywords name": "inbox", "keywords type": "OTHER"}
+{"text": "\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7~~", "time": 1572061919, "sentiments": "0.5", "keywords name": "\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7", "keywords type": "PERSON"}
+{"text": "@alliw0911 BS? Ok, how about you try running an airline with some 400 aircraft, 5 hubs, thousands upon thousands of daily flights, and transporting millions of passengers and their luggage every week.", "time": 1572063261, "sentiments": "0.0", "keywords name": "400", "keywords type": "NUMBER"}
+{"text": "@lentokoneric @average_tk", "time": 1572066363, "sentiments": "0.0", "keywords name": "@average_tk", "keywords type": "OTHER"}
+{"text": "And ICN offers incredible access to SE Asia \ud83e\udd13\ud83d\ude1d", "time": 1572067561, "sentiments": "0.5", "keywords name": "SE Asia", "keywords type": "LOCATION"}
+{"text": "Welcome to Seoul! We are glad to meet you!\u270b\ud83c\udffb\ud83d\ude01", "time": 1572067836, "sentiments": "0.699999988079", "keywords name": "Seoul", "keywords type": "LOCATION"}
+{"text": "Hey Seoul see u 2020 !!! \ud83c\uddf0\ud83c\uddf7\ud83d\ude0d\ud83c\uddf0\ud83c\uddf7\ud83d\ude0d\ud83c\uddf0\ud83c\uddf7\ud83d\ude0d\ud83c\uddf0\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8", "time": 1572073476, "sentiments": "0.20000000298", "keywords name": "2020", "keywords type": "NUMBER"}
+{"text": "@jayraquidan I forgot the date. But Delta will fly to Philippines direct flight from korea to Philippines!", "time": 1572073588, "sentiments": "0.10000000149", "keywords name": "flight", "keywords type": "OTHER"}
+{"text": "@ivan._.rodrigues yes I know I leave in Israel and there is only 2 Airlines how do nonstop flights from Tel Aviv to San fransisco, United and el al and I wish delta too", "time": 1572079629, "sentiments": "0.20000000298", "keywords name": "2", "keywords type": "NUMBER"}
+{"text": "\ud83c\uddf0\ud83c\uddf7", "sentiments": "0.300000011921", "time": 1572081267}
+{"text": "@roopeseta hngggghhh that\u2019s us!", "time": 1572087311, "sentiments": "0.10000000149", "keywords name": "@roopeseta hngggghhh", "keywords type": "OTHER"}
+{"text": "I was thinking that was North Korea that you were going to....", "time": 1572088306, "sentiments": "0.0", "keywords name": "North Korea", "keywords type": "LOCATION"}
+{"text": "Hello! What are my options if I\u2019m flying from MCO?", "time": 1572089310, "sentiments": "0.10000000149", "keywords name": "MCO", "keywords type": "ORGANIZATION"}
+{"text": "DELTA - FOREVER!\ud83d\ude0d", "time": 1572092263, "sentiments": "0.300000011921", "keywords name": "FOREVER", "keywords type": "OTHER"}
+{"text": "Oh wow\ud83d\ude0d", "sentiments": "0.300000011921", "time": 1572094881}
+{"text": "Just did it Thursday from Atlanta. Amazing service @delta. The best!", "time": 1572096579, "sentiments": "0.600000023842", "keywords name": "@delta", "keywords type": "ORGANIZATION"}
+{"text": "Who is gonna come there by airplane?\ud83d\udc30", "time": 1572096886, "sentiments": "0.0", "keywords name": "airplane", "keywords type": "OTHER"}
+{"text": "I love Seoul", "time": 1572099273, "sentiments": "0.800000011921", "keywords name": "Seoul", "keywords type": "LOCATION"}
+{"text": "About to go back to ICN for the 6th time on delta.", "time": 1572103890, "sentiments": "0.0", "keywords name": "6", "keywords type": "NUMBER"}
+{"text": "Hi guys! I\u2019m a beginning photographer and would really appreciate if you go and follow my account @photographer87989!", "time": 1572113896, "sentiments": "0.5", "keywords name": "@photographer87989", "keywords type": "OTHER"}
+{"text": "\ud83d\udea8\ud83d\udea8\ud83d\udea8Delta\u2019s flight DL 2374 from LAX to PDX has been delayed for 8+ hours FOR A 2 HOUR FLIGHT. FIX YOUR PLANE! OFFER YOUR CUSTOMERS SOME RELIEF.\ud83d\udea8\ud83d\udea8\ud83d\udea8", "time": 1572114443, "sentiments": "-0.5", "keywords name": "2", "keywords type": "NUMBER"}
+{"text": "@ck_321_ @delta", "time": 1572114452, "sentiments": "0.10000000149", "keywords name": "321", "keywords type": "NUMBER"}
+{"text": "Hi", "sentiments": "0.20000000298", "time": 1572026191}
+{"text": "Seoul is one of my fave direct destinations. Amazing city!!", "time": 1572026226, "sentiments": "0.800000011921", "keywords name": "one", "keywords type": "NUMBER"}
+{"text": "#delta #keepclimbing #deltaproud #skymileslife #travel #travelgram #instatravel #traveling #wanderlust #worldtravel #bucketlist #globetrotter #roamtheplanet #travelstoke #passionpassport #travelphoto #traveltheworld #instapassport #ilovetravel #digitalnomad #bukchonhanokvillage #seoul #seoulkorea #iloveseoul #visitseoul", "time": 1572026233, "sentiments": "0.5", "keywords name": "#instapassport", "keywords type": "OTHER"}
+{"text": "@_thatsprettyneat", "time": 1572026350, "sentiments": "0.0", "keywords name": "@_thatsprettyneat", "keywords type": "OTHER"}
+{"text": "@delta what route offers the A350!", "time": 1572026375, "sentiments": "0.20000000298", "keywords name": "A350", "keywords type": "CONSUMER_GOOD"}
+{"text": "I bought a Zed fare ticket from SEA to ICN last June and I want to say the crew on that route are all so fabulous! Your international flight consistently provide STELLAR customer service!", "time": 1572026545, "sentiments": "0.600000023842", "keywords name": "customer service", "keywords type": "OTHER"}
+{"text": "Nothing about the Philippines?? Delta does fly there also", "time": 1572026781, "sentiments": "0.0", "keywords name": "Delta", "keywords type": "ORGANIZATION"}
+{"text": "Need to visit \u2728", "sentiments": "0.10000000149", "time": 1572026811}
+{"text": "@t733 \u2708\ufe0f\ud83c\uddf0\ud83c\uddf7", "time": 1572026852, "sentiments": "0.300000011921", "keywords name": "\u2708\ufe0f\ud83c\uddf0\ud83c\uddf7", "keywords type": "OTHER"}
+{"text": "Been there done that. Loved every second of it.", "time": 1572027080, "sentiments": "0.5", "keywords name": "second", "keywords type": "OTHER"}
+{"text": "@jzzygrl1", "time": 1572027285, "sentiments": "0.0", "keywords name": "@jzzygrl1", "keywords type": "OTHER"}
+{"text": "@w_phillips97 can\u2019t wait", "time": 1572029185, "sentiments": "0.5", "keywords name": "@w_phillips97", "keywords type": "OTHER"}
+{"text": "@kfterrani maybe we\u2019ll hop over after japab", "time": 1572029201, "sentiments": "0.0", "keywords name": "japab", "keywords type": "OTHER"}
+{"text": "@roxxilexxus spring trip?", "time": 1572029274, "sentiments": "0.0", "keywords name": "@roxxilexxus", "keywords type": "OTHER"}
+{"text": "When is gonna be nonstop flight from Tel Aviv to San fransisco\ud83c\udf01!", "time": 1572029708, "sentiments": "0.10000000149", "keywords name": "San fransisco", "keywords type": "LOCATION"}
+{"text": "@jeffpilot91 absolutely! Sold!", "time": 1572029816, "sentiments": "0.10000000149", "keywords name": "@jeffpilot91", "keywords type": "PERSON"}
+{"text": "#diyanetkapat\u0131ls\u0131n", "time": 1572029858, "sentiments": "0.0", "keywords name": "diyanetkapat\u0131ls\u0131n", "keywords type": "OTHER"}
+{"text": "#FindACure #KeepClimbing #Pilot #GroundPersonnel #belowwing #ramplife #Aviation #Airplane #InstaAviation #breastcancerresearchfoundation #wearpink #instaaviation #aviatorsofcolor #aviationphotography #photooftheday #crew #dreamteam #delta #deltaairlines #avgeek #avnerd #megaplane #aviationlife #aviationspotting #blackpilot #aviationlovers #instragramaviation", "time": 1571868919, "sentiments": "0.20000000298", "keywords name": "#delta #deltaairlines", "keywords type": "ORGANIZATION"}
+{"text": "That's my guy to the right of u. We work the same area", "time": 1571869574, "sentiments": "0.10000000149", "keywords name": "area", "keywords type": "LOCATION"}
+{"text": "Thanks for keeping us below the wing folks in mind. 26 year vet here!", "time": 1571869717, "sentiments": "0.10000000149", "keywords name": "26", "keywords type": "NUMBER"}
+{"text": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f", "time": 1571869902, "sentiments": "0.300000011921", "keywords name": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f", "keywords type": "PERSON"}
+{"text": "@876pilot, Marlon that\u2019s love! You made their day. Keep making us proud. I follow so many black pilots on IG.", "time": 1571870359, "sentiments": "0.40000000596", "keywords name": "876", "keywords type": "NUMBER"}
+{"text": "Big smiles!", "time": 1571870436, "sentiments": "0.800000011921", "keywords name": "smiles", "keywords type": "OTHER"}
+{"text": "\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc", "time": 1571870632, "sentiments": "0.300000011921", "keywords name": "\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc", "keywords type": "PERSON"}
+{"text": "\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc", "time": 1571870646, "sentiments": "0.300000011921", "keywords name": "\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc\ud83d\udc4d\ud83c\udffc", "keywords type": "PERSON"}
+{"text": "\ud83c\udfc6", "sentiments": "0.10000000149", "time": 1571870879}
+{"text": "\ud83d\ude4c\ud83c\udfff\ud83d\ude4c\ud83c\udfff\ud83d\udcaa\ud83c\udfff\ud83d\udcaa\ud83c\udfff", "time": 1571870955, "sentiments": "0.699999988079", "keywords name": "\ud83d\ude4c\ud83c\udfff\ud83d\ude4c\ud83c\udfff\ud83d\udcaa\ud83c\udfff\ud83d\udcaa\ud83c\udfff", "keywords type": "PERSON"}
+{"text": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\u2764\ufe0f\u2764\ufe0f\ud83d\udcaa\ud83d\udcaa", "time": 1571871120, "sentiments": "0.5", "keywords name": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\u2764\ufe0f\u2764\ufe0f\ud83d\udcaa\ud83d\udcaa", "keywords type": "PERSON"}
+{"text": "Delta Proud!!!", "time": 1571871378, "sentiments": "0.899999976158", "keywords name": "Delta Proud", "keywords type": "OTHER"}
+{"text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1571871822, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "PERSON"}
+{"text": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe", "time": 1571872214, "sentiments": "0.800000011921", "keywords name": "\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe", "keywords type": "PERSON"}
+{"text": "Thanks for showing some love to Below Wing ACS! We gotta get a photo before you go to JFK Marlon\ud83d\ude2d", "time": 1571872961, "sentiments": "-0.10000000149", "keywords name": "JFK Marlon", "keywords type": "LOCATION"}
+{"text": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f", "time": 1571873299, "sentiments": "0.300000011921", "keywords name": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f", "keywords type": "PERSON"}
+{"text": "\u2764\u2764\u2764\u2764\ud83d\udc4f\ud83d\udc4f", "time": 1571873571, "sentiments": "0.600000023842", "keywords name": "\u2764\u2764\u2764\u2764\ud83d\udc4f\ud83d\udc4f", "keywords type": "PERSON"}
+{"text": "Delta paying you extra for advertising? \ud83d\udc40\ud83d\ude02", "time": 1571873762, "sentiments": "0.0", "keywords name": "advertising", "keywords type": "OTHER"}
+{"text": "Wow!", "sentiments": "0.300000011921", "time": 1571875400}
+{"text": "\ud83d\udc4c\ud83c\udffe", "sentiments": "0.300000011921", "time": 1571875643}
+{"text": "Very nice", "sentiments": "0.800000011921", "time": 1571875954}
+{"text": "A yuh  fada  still bro bro lol", "time": 1571876304, "sentiments": "0.40000000596", "keywords name": "bro", "keywords type": "OTHER"}
+{"text": "\ud83d\udc4c\ud83c\udffe\ud83d\udc4c\ud83c\udffe", "time": 1571881646, "sentiments": "0.600000023842", "keywords name": "\ud83d\udc4c\ud83c\udffe\ud83d\udc4c\ud83c\udffe", "keywords type": "PERSON"}
+{"text": "Now that\u2019s loyalty!\u2708\ufe0f", "time": 1571884678, "sentiments": "0.5", "keywords name": "loyalty", "keywords type": "OTHER"}
+{"text": "\ud83d\udc4f", "sentiments": "0.10000000149", "time": 1571887170}
+{"text": "\u2764\ufe0f Good end of the week. Warm compliments to you.\u2764\ufe0f", "time": 1571894693, "sentiments": "0.800000011921", "keywords name": "compliments", "keywords type": "OTHER"}
+{"text": "#onefamily", "sentiments": "0.0", "time": 1571916339}
+{"text": "\u2764\ufe0f", "sentiments": "0.0", "time": 1571916345}
+{"text": "soon join can't wait\u2764\ufe0f\ud83c\uddef\ud83c\uddf2\ud83d\ude0d#deltaairlines", "time": 1571916392, "sentiments": "0.800000011921", "keywords name": "#deltaairlines", "keywords type": "OTHER"}
+{"text": "@876pilot this one show's the diversity of where we are and where we aspire to be. Respect to you for showing youths that they can be anything they want to be.", "time": 1571920663, "sentiments": "0.40000000596", "keywords name": "one", "keywords type": "NUMBER"}
+{"text": "We \ud83c\uddef\ud83c\uddf2are proud of you, stay humble and always appreciate everyone. Always put a smile on someone\u2019s face, you will make their day...... keep up the good work\u2764\ufe0f\ud83c\uddef\ud83c\uddf2#proudjamaican @876pilot", "time": 1571923820, "sentiments": "0.800000011921", "keywords name": "876", "keywords type": "NUMBER"}
+{"text": "Yes sir. Respect for this post. Its challenging but we are all one team!", "time": 1571961627, "sentiments": "0.300000011921", "keywords name": "one", "keywords type": "NUMBER"}
+{"text": "\u2764\ufe0f\ud83d\udc95", "sentiments": "0.20000000298", "time": 1571973885}
+{"text": "Dogs are miracle workers \ud83d\udc95", "time": 1572019869, "sentiments": "0.300000011921", "keywords name": "miracle workers", "keywords type": "PERSON"}
+{"text": "That\u2019s great!  We\u2019re taking our first flight in Dec to NYC from AZ. Mom and sissy are super nervous for us but we\u2019re going to keep mom and sissy calm \u2764\ufe0f", "time": 1572020025, "sentiments": "0.5", "keywords name": "calm", "keywords type": "OTHER"}
+{"text": "Cutie!!\ud83d\udc9e\ud83d\udc9e\ud83d\ude0d", "sentiments": "0.899999976158", "time": 1572020696}
+{"text": "I love it", "sentiments": "0.800000011921", "time": 1572021228}
+{"text": "awwwwwwwwwww ! I would to be on a plane w her !!!!!! Although she and you would get aggravated w me bc I would find every excuse to go talk to her !", "time": 1572022134, "sentiments": "0.0", "keywords name": "talk", "keywords type": "OTHER"}
+{"text": "Love it! I\u2019ve been wanting to fly with my pup (Mila).. what was required to get Glee a seat?", "time": 1572022340, "sentiments": "0.40000000596", "keywords name": "Glee", "keywords type": "WORK_OF_ART"}
+{"text": "The sweetest face", "time": 1572022503, "sentiments": "0.800000011921", "keywords name": "face", "keywords type": "OTHER"}
+{"text": "@knoxandbear \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572023200, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "@joegbsmith dm me I\u2019ll walk you thru it!", "time": 1572023220, "sentiments": "0.0", "keywords name": "@joegbsmith", "keywords type": "PERSON"}
+{"text": "@momochs2018 never!!!! That\u2019s the best part!!!!!", "time": 1572023233, "sentiments": "0.20000000298", "keywords name": "part", "keywords type": "OTHER"}
+{"text": "@nancy.forney \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572023236, "sentiments": "0.0", "keywords name": "forney \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "@cocothemaltesedog omg!!!!!! Amazing!!!! We need to meet up!!! You\u2019re going to be amazing!", "time": 1572023261, "sentiments": "0.5", "keywords name": "@cocothemaltesedog", "keywords type": "OTHER"}
+{"text": "@dougandhudson \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572023265, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "@jc_estie couldn\u2019t agree more", "time": 1572023272, "sentiments": "-0.10000000149", "keywords name": "more", "keywords type": "OTHER"}
+{"text": "@goldens_glee It would be so great to meet! We will be there Dec 12-17! \ud83d\udc97", "time": 1572023527, "sentiments": "0.40000000596", "keywords name": "17", "keywords type": "NUMBER"}
+{"text": "@cocothemaltesedog awesome!!!!! Can\u2019t wait!!!", "time": 1572024033, "sentiments": "0.699999988079", "keywords name": "@cocothemaltesedog", "keywords type": "OTHER"}
+{"text": "Omgosh - I sure hope I\u2019m lucky enough to be on a flight with you, Cutie - you\u2019re the sweetest \ud83d\ude18\ud83d\udc3e\u2764\ufe0f", "time": 1572024155, "sentiments": "0.899999976158", "keywords name": "Cutie", "keywords type": "PERSON"}
+{"text": "@dunkinthefrenchie that would be so fun!!!!! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572025754, "sentiments": "0.5", "keywords name": "\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "\ud83d\ude0b\ud83d\ude0d\u2764\ufe0f", "sentiments": "0.40000000596", "time": 1572026163}
+{"text": "Love you!", "sentiments": "0.800000011921", "time": 1572026738}
+{"text": "@pmelsita \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572029160, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "@joingoldn \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572029162, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "Question\u2026 when flying with a dog and you buy an extra seat are they allowed to sit on it or are they expected to stay on the floor still?", "time": 1572030966, "sentiments": "0.0", "keywords name": "floor", "keywords type": "LOCATION"}
+{"text": "@tory4u", "time": 1572034155, "sentiments": "0.0", "keywords name": "@tory4u", "keywords type": "OTHER"}
+{"text": "Such a good girl \ud83d\ude18\ud83d\ude18", "time": 1572034166, "sentiments": "0.800000011921", "keywords name": "girl", "keywords type": "PERSON"}
+{"text": "@ozzy_thestaffy dming you.", "time": 1572034242, "sentiments": "0.0", "keywords name": "@ozzy_thestaffy", "keywords type": "PERSON"}
+{"text": "@hudson.thegoldenboy \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572034576, "sentiments": "0.0", "keywords name": "thegoldenboy \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "\u2764\ufe0f", "sentiments": "0.0", "time": 1572035594}
+{"text": "@goldens_glee I have the same question! DMing you", "time": 1572040424, "sentiments": "0.0", "keywords name": "question", "keywords type": "OTHER"}
+{"text": "This is the best!!!\ud83d\ude09\ud83d\udc3e\u2708\ufe0f", "time": 1572040924, "sentiments": "0.899999976158", "keywords name": "best", "keywords type": "OTHER"}
+{"text": "eeeek those puppy dog eyes\ud83d\ude0d", "time": 1572044751, "sentiments": "0.40000000596", "keywords name": "puppy dog eyes", "keywords type": "OTHER"}
+{"text": "Awww that face \ud83d\ude0d", "time": 1572045933, "sentiments": "0.800000011921", "keywords name": "Awww", "keywords type": "OTHER"}
+{"text": "My Summer gives me joy every single day when I arrive home from work. Her tail is wagging and her happy little grunts tells me that might have missed me almost as much  as I missed her. \u2764\ufe0f\ud83d\udc3e", "time": 1572047336, "sentiments": "0.600000023842", "keywords name": "tail", "keywords type": "OTHER"}
+{"text": "\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01", "time": 1572047669, "sentiments": "0.40000000596", "keywords name": "\ud83d\ude01\ud83d\ude01\ud83d\ude01\ud83d\ude01", "keywords type": "OTHER"}
+{"text": "Need to get your travel tips so @kathryncartini takes my on Tour w/ @chloe_capital \ud83d\udc3c\ud83d\udc3e\ud83e\udd23 #InvestInWomen", "time": 1572053728, "sentiments": "0.40000000596", "keywords name": "@chloe_capital \ud83d\udc3c\ud83d\udc3e\ud83e\udd23 #InvestInWomen", "keywords type": "OTHER"}
+{"text": "Haha such a sweet face!", "time": 1572055512, "sentiments": "0.699999988079", "keywords name": "face", "keywords type": "OTHER"}
+{"text": "Need to get your travel tips so @kathryncartini takes my on Tour w/ @chloe_capital \ud83d\udc3c\ud83d\udc3e\ud83e\udd23 #InvestInWomen", "time": 1572058405, "sentiments": "0.40000000596", "keywords name": "@chloe_capital \ud83d\udc3c\ud83d\udc3e\ud83e\udd23 #InvestInWomen", "keywords type": "OTHER"}
+{"text": "Need to get your travel tips so @kathryncartini takes my on Tour w/ @chloe_capital \ud83d\udc3c\ud83d\udc3e\ud83e\udd23 #InvestInWomen", "time": 1572058405, "sentiments": "0.40000000596", "keywords name": "@chloe_capital \ud83d\udc3c\ud83d\udc3e\ud83e\udd23 #InvestInWomen", "keywords type": "OTHER"}
+{"text": "How was it flying with your dog??", "time": 1572059320, "sentiments": "0.0", "keywords name": "dog", "keywords type": "OTHER"}
+{"text": "Wish I had a pup to fly next to me on every flight I am on...nervous flier here. Why isn\u2019t there a service fir this? Rent a pup \ud83d\udc36", "time": 1572060320, "sentiments": "0.0", "keywords name": "pup", "keywords type": "OTHER"}
+{"text": "\ud83d\ude18\ud83d\udc96\ud83d\udc96\ud83d\udc96", "time": 1572068294, "sentiments": "0.40000000596", "keywords name": "\ud83d\ude18\ud83d\udc96\ud83d\udc96\ud83d\udc96", "keywords type": "OTHER"}
+{"text": "Love your sweet face \ud83d\ude0d", "time": 1572071427, "sentiments": "0.899999976158", "keywords name": "face", "keywords type": "OTHER"}
+{"text": "Can\u2019t handle those eyes! Super cute \u2764\ufe0f we\u2019d love to be greeted by you", "time": 1572092772, "sentiments": "0.20000000298", "keywords name": "\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "She\u2019s so good! Wish kev man was that calm!", "time": 1572098903, "sentiments": "0.899999976158", "keywords name": "kev man", "keywords type": "PERSON"}
+{"text": "So sweet! We had to put Bingoo in with the cargo but he gave every back staff so much joy. Often times I forget there are people down there... but glad Bingoo was able to give them joy~", "time": 1572102151, "sentiments": "0.800000011921", "keywords name": "Bingoo", "keywords type": "PERSON"}
+{"text": "Sooo Cool", "time": 1572104873, "sentiments": "0.899999976158", "keywords name": "Sooo Cool", "keywords type": "OTHER"}
+{"text": "Dogs don\u2019t belong on planes like this.", "time": 1572107385, "sentiments": "-0.10000000149", "keywords name": "planes", "keywords type": "OTHER"}
+{"text": "Am\u2764\ufe0frrr", "sentiments": "0.10000000149", "time": 1572111532}
+{"text": "@goldens_glee I have the same question!", "time": 1572114011, "sentiments": "0.0", "keywords name": "question", "keywords type": "OTHER"}
+{"text": "Oh Gleeeeee you are just da nicest sweetest girl", "time": 1572123419, "sentiments": "0.699999988079", "keywords name": "girl", "keywords type": "PERSON"}
+{"text": "We\u2019d love to have you on our flight! \ud83d\ude18", "time": 1572014996, "sentiments": "0.5", "keywords name": "flight", "keywords type": "EVENT"}
+{"text": "@gabriells1984", "time": 1572015033, "sentiments": "0.0", "keywords name": "@gabriells1984", "keywords type": "OTHER"}
+{"text": "Goldens are the MOST expressive dogs that I\u2019ve met.  Their facial expressions are SO funny and they are REALLY good at letting you know when they are not happy with you !  Lol \ud83d\ude02 (ie:  Like when we get out the suit cases and they  think they aren\u2019t going) \ud83d\ude0d\ud83d\udc45\ud83d\udc9a Then the tail goes CRAZY & the smile comes out when they realize they are going with you !! Love love !! \ud83d\ude0d", "time": 1572015038, "sentiments": "0.40000000596", "keywords name": "CRAZY", "keywords type": "OTHER"}
+{"text": "She\u2019s the best \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "sentiments": "0.899999976158", "time": 1572015098}
+{"text": "@goldens_glee That\u2019s awesome!! I\u2019ve had goldens forever. Typically 3 at once. One for each of my kids. Now I have a St. Bernard! \ud83d\ude33", "time": 1572015191, "sentiments": "0.20000000298", "keywords name": "One", "keywords type": "NUMBER"}
+{"text": "What sort of snack did Glee get from the flight attendant?", "time": 1572015260, "sentiments": "-0.40000000596", "keywords name": "flight attendant", "keywords type": "PERSON"}
+{"text": "That\u2019s wonderful you got to travel with her! She gets her own seat?? \ud83d\udc95\ud83d\udc95", "time": 1572015294, "sentiments": "0.300000011921", "keywords name": "seat", "keywords type": "OTHER"}
+{"text": "@williamwsmith cheese!!!!", "time": 1572015320, "sentiments": "0.10000000149", "keywords name": "@williamwsmith", "keywords type": "OTHER"}
+{"text": "Aww such a sweetheart! \ud83d\udc95", "time": 1572015321, "sentiments": "0.40000000596", "keywords name": "sweetheart", "keywords type": "OTHER"}
+{"text": "@miamipeaches that\u2019s amazing!!!! They\u2019re beyond the most wonderful. I hope your day is better today!", "time": 1572015354, "sentiments": "0.5", "keywords name": "@miamipeaches", "keywords type": "OTHER"}
+{"text": "@maestro_the_great_dane  completely agree", "time": 1572015363, "sentiments": "-0.10000000149", "keywords name": "@maestro_the_great_dane", "keywords type": "PERSON"}
+{"text": "@baileydoodle thank you so much!!!", "time": 1572015373, "sentiments": "0.40000000596", "keywords name": "@baileydoodle", "keywords type": "PERSON"}
+{"text": "@maisondepawz \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f same!! Especially bc I know you\u2019d bring the epic snacks.", "time": 1572015388, "sentiments": "0.300000011921", "keywords name": "snacks", "keywords type": "OTHER"}
+{"text": "@otherpeoplespetlovers completely agree and so funny re the suitcases!!! She\u2019s the same exact way!!!", "time": 1572015426, "sentiments": "0.10000000149", "keywords name": "suitcases", "keywords type": "CONSUMER_GOOD"}
+{"text": "@spacitron thank you!!!!", "time": 1572015432, "sentiments": "0.300000011921", "keywords name": "@spacitron", "keywords type": "PERSON"}
+{"text": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f", "sentiments": "0.0", "time": 1572015514}
+{"text": "@laura_braun_interiors that\u2019s amazing all around!!! Love st Bernard\u2019s too!!!", "time": 1572015543, "sentiments": "0.800000011921", "keywords name": "Bernard", "keywords type": "PERSON"}
+{"text": "Pobre\ud83d\ude22", "time": 1572015546, "sentiments": "-0.800000011921", "keywords name": "Pobre", "keywords type": "PERSON"}
+{"text": "@goldens_glee classy", "time": 1572015797, "sentiments": "0.5", "keywords name": "@goldens_glee", "keywords type": "OTHER"}
+{"text": "@goldens_glee much much better \u263a\ufe0f\ud83e\udd70", "time": 1572016108, "sentiments": "-0.20000000298", "keywords name": "@goldens_glee", "keywords type": "PERSON"}
+{"text": "What a good girl!!! I knew you were special!!\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "time": 1572016199, "sentiments": "0.600000023842", "keywords name": "girl", "keywords type": "PERSON"}
+{"text": "@goldens_glee much much better \u263a\ufe0f\ud83e\udd70", "time": 1572016202, "sentiments": "-0.20000000298", "keywords name": "@goldens_glee", "keywords type": "PERSON"}
+{"text": "Did you get anything from the airhostes?", "time": 1572016275, "sentiments": "0.0", "keywords name": "airhostes", "keywords type": "OTHER"}
+{"text": "Glee is just so precious. I guarantee you that she made anyone who was afraid of flying more relaxed just having her there. She looks so cute sitting in her seat. Good job Glee. Keep spreading happiness everywhere you go. \ud83d\udc95\ud83d\udc95\ud83d\udc95", "time": 1572016291, "sentiments": "0.600000023842", "keywords name": "seat", "keywords type": "OTHER"}
+{"text": "I always get creepy old dudes or whiny kids by me.  I want a dog seat partner", "time": 1572016663, "sentiments": "-0.20000000298", "keywords name": "dog seat partner", "keywords type": "ORGANIZATION"}
+{"text": "@lucaasfelippe quero \ud83d\ude0d\u2764\ufe0f", "time": 1572016682, "sentiments": "0.5", "keywords name": "@lucaasfelippe quero \ud83d\ude0d\u2764\ufe0f", "keywords type": "PERSON"}
+{"text": "SEMPER FI. WOOF WOOF.", "time": 1572017301, "sentiments": "0.10000000149", "keywords name": "WOOF WOOF", "keywords type": "LOCATION"}
+{"text": "come back!!! we miss you!!!", "sentiments": "0.0", "time": 1572017418}
+{"text": "Wonderful \ud83d\udc96", "sentiments": "0.800000011921", "time": 1572018261}
+{"text": "@mart_deb \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572018325, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "@gusgusinthecity we miss you tons!!!! Figuring out getting back ASAP!!!", "time": 1572018337, "sentiments": "0.0", "keywords name": "@gusgusinthecity", "keywords type": "OTHER"}
+{"text": "@gingerbeckynicky \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f totally feel you!", "time": 1572018355, "sentiments": "0.5", "keywords name": "@gingerbeckynicky", "keywords type": "PERSON"}
+{"text": "@lihuskybrothers thank you so so much!!!!!!! I think she def did \ud83e\udd17\ud83e\udd17", "time": 1572018375, "sentiments": "0.40000000596", "keywords name": "@lihuskybrothers", "keywords type": "PERSON"}
+{"text": "@buddythedappleddachshund cheese!!!!!! \u2764\ufe0f\u2764\ufe0f", "time": 1572018383, "sentiments": "0.0", "keywords name": "cheese", "keywords type": "OTHER"}
+{"text": "Those eyes @orls22", "time": 1572018387, "sentiments": "0.10000000149", "keywords name": "@orls22", "keywords type": "OTHER"}
+{"text": "@marleyandmeinnyc \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f thank you!!!!", "time": 1572018390, "sentiments": "0.300000011921", "keywords name": "@marleyandmeinnyc \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "@wager108 \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572018397, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "@goldenmadisonave \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f thank you!!!!", "time": 1572018405, "sentiments": "0.300000011921", "keywords name": "\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "@alexlevite1 \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572018421, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "I would have paid for an upgrade so I could have been seated next to this pawsenger!!!", "time": 1572018661, "sentiments": "0.0", "keywords name": "pawsenger", "keywords type": "PERSON"}
+{"text": "@keepyour_sunnysideup is my ESA pup and brings so many people joy wherever we go! Many times, we\u2019ve been on a plane and she kept the elderly woman next to us calm during turbulence. She is such a ray of sunshine for all of us!!", "time": 1572018716, "sentiments": "0.5", "keywords name": "turbulence", "keywords type": "OTHER"}
+{"text": "Aww that face \ud83d\ude02", "time": 1572018840, "sentiments": "0.600000023842", "keywords name": "Aww", "keywords type": "OTHER"}
+{"text": "Such a sweet face!!", "time": 1572018981, "sentiments": "0.699999988079", "keywords name": "face", "keywords type": "OTHER"}
+{"text": "@golden_thorson thank you!!", "time": 1572019015, "sentiments": "0.20000000298", "keywords name": "@golden_thorson", "keywords type": "PERSON"}
+{"text": "@kmac_withcheese so so special!!!!!!!!", "time": 1572019029, "sentiments": "0.300000011921", "keywords name": "@kmac_withcheese", "keywords type": "OTHER"}
+{"text": "@kmac_withcheese sunny is adorable!!!!", "time": 1572019038, "sentiments": "0.899999976158", "keywords name": "sunny", "keywords type": "OTHER"}
+{"text": "@clementsnc \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572019042, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "@montyrose620 \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f you\u2019re the best!!!", "time": 1572019052, "sentiments": "0.899999976158", "keywords name": "@montyrose620 \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "PERSON"}
+{"text": "Glee is just such a good girl \ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97", "time": 1572019411, "sentiments": "0.699999988079", "keywords name": "girl", "keywords type": "PERSON"}
+{"text": "@novathegoodgirlnyc \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f thank you so much!!!", "time": 1572019550, "sentiments": "0.40000000596", "keywords name": "@novathegoodgirlnyc \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "Such a sweet girl!! \ud83d\ude18", "time": 1572013710, "sentiments": "0.5", "keywords name": "girl", "keywords type": "PERSON"}
+{"text": "#cuteanimals #dogs #shihtzu #goldens #nycdogs #ilovenyc #love #delta #weeklyfluff #goldensofinstagram #goldensofig #instagood @barked @9gag @boopmynose @ilovegolden_retrievers @dogsbeingbasic @todayshow #halloween #travelingwithdogs", "time": 1572013732, "sentiments": "0.800000011921", "keywords name": "9", "keywords type": "NUMBER"}
+{"text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f No better face!!! She lights up my life whenever we\u2019re waiting on line. @theellereport @alexlevite1 @tovahavigail @alannabnewman", "time": 1572013778, "sentiments": "0.10000000149", "keywords name": "@alannabnewman", "keywords type": "PERSON"}
+{"text": "She is definitely the goodest girl!!!", "time": 1572013917, "sentiments": "0.899999976158", "keywords name": "girl", "keywords type": "PERSON"}
+{"text": "@adriennesgrams \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f thank you so much!", "time": 1572013936, "sentiments": "0.300000011921", "keywords name": "@adriennesgrams \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "PERSON"}
+{"text": "Chelsea would do the same. She would bring the baby one of her toys to see if it calmed her. I swear she just knows \u2764\ufe0f\u2764\ufe0f\ud83d\udc3e\u2764\ufe0f", "time": 1572014036, "sentiments": "0.0", "keywords name": "one", "keywords type": "NUMBER"}
+{"text": "Love that sweet face \ud83d\ude0d", "time": 1572014244, "sentiments": "0.899999976158", "keywords name": "face", "keywords type": "OTHER"}
+{"text": "What a sweetheart love that look she gives you!!\ud83d\ude0d", "time": 1572014279, "sentiments": "0.899999976158", "keywords name": "sweetheart love", "keywords type": "OTHER"}
+{"text": "Nothing better! Need to pick your travel brain.", "time": 1572014340, "sentiments": "0.5", "keywords name": "travel brain", "keywords type": "OTHER"}
+{"text": "She would be the best surprise seat mate on a long flight!! \ud83d\udc36\u2764\ufe0f", "time": 1572014343, "sentiments": "0.5", "keywords name": "flight", "keywords type": "EVENT"}
+{"text": "Bitcoin investment is real. I have been able to take care of myself and my family through the help  @trade_with_Brian_rohn strategies that give you easy payouts on a weekly basis. Leave him a dm to get started.", "time": 1572014389, "sentiments": "0.300000011921", "keywords name": "payouts", "keywords type": "OTHER"}
+{"text": "I am a nervous flyer too and my coco calms me down too.  Your baby is beautiful \ud83d\udc36\u2764\ufe0f\ud83d\udc99\ud83d\ude18\ud83d\udc9c", "time": 1572014458, "sentiments": "0.699999988079", "keywords name": "baby", "keywords type": "PERSON"}
+{"text": "Cute \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude18", "time": 1572014491, "sentiments": "0.800000011921", "keywords name": "Cute \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude18", "keywords type": "ORGANIZATION"}
+{"text": "No. There is not. I\u2019m one the rare people who hopes to be able to sit next to a dog! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f", "time": 1572014527, "sentiments": "0.0", "keywords name": "one", "keywords type": "NUMBER"}
+{"text": "My dog was having the zoomies and was just really excited to see me when i got home from work but i\u2019d had such a bad day i burst into tears. He immediately stopped zooming and jumped on the sofa next to me and licked the tears on my face, dogs are soo attuned to our emotions \u270a\ud83c\udffd\u2764\ufe0f\ud83d\ude4c\ud83c\udffd", "time": 1572014592, "sentiments": "0.300000011921", "keywords name": "sofa", "keywords type": "CONSUMER_GOOD"}
+{"text": "@biancaarieiv", "time": 1572014653, "sentiments": "0.0", "keywords name": "@biancaarieiv", "keywords type": "OTHER"}
+{"text": "I love it when he\u2019s happy when I\u2019m not feeling it. That always makes me smile \ud83d\ude03", "sentiments": "0.800000011921", "time": 1572014667}
+{"text": "@laura_braun_interiors \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f us too! It was amazing the woman next to us had just left her dog at home and was so upset so she got so excited to be w glee", "time": 1572014686, "sentiments": "0.20000000298", "keywords name": "w glee", "keywords type": "OTHER"}
+{"text": "@lollypopgirl73 thank you so much!!!", "time": 1572014704, "sentiments": "0.40000000596", "keywords name": "@lollypopgirl73", "keywords type": "PERSON"}
+{"text": "@jsplaver \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572014712, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "@jsplaver thank you!!", "time": 1572014718, "sentiments": "0.20000000298", "keywords name": "@jsplaver", "keywords type": "PERSON"}
+{"text": "@amazinggraciedoodle I\u2019m down!! Dm me. Trying to figure out coming back to la to spend time w you guys! Glee was obsessed.", "time": 1572014747, "sentiments": "0.0", "keywords name": "Glee", "keywords type": "WORK_OF_ART"}
+{"text": "@cbiggers48 \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f thank you!!!", "time": 1572014754, "sentiments": "0.300000011921", "keywords name": "@cbiggers48 \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "PERSON"}
+{"text": "@lizzie.bear \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572014757, "sentiments": "0.10000000149", "keywords name": "@lizzie.", "keywords type": "OTHER"}
+{"text": "@chillin.with.chelsea it\u2019s crazy how amazing they are. Even just the idea their first reaction is always to move to the person who needs them.", "time": 1572014807, "sentiments": "0.40000000596", "keywords name": "idea", "keywords type": "OTHER"}
+{"text": "@labagelchic \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572014813, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "We have done the same with our parents on planes!! So glad the flight went so well!", "time": 1572014816, "sentiments": "0.5", "keywords name": "flight", "keywords type": "OTHER"}
+{"text": "@jarredabina thank you!!!", "time": 1572014819, "sentiments": "0.300000011921", "keywords name": "@jarredabina", "keywords type": "PERSON"}
+{"text": "Oy o bak\u0131\u015flar\u0131n\u0131 yerim \ud83d\ude1a\ud83d\udc4c", "time": 1572014826, "sentiments": "0.5", "keywords name": "Oy o bak\u0131\u015flar\u0131n\u0131 yerim \ud83d\ude1a\ud83d\udc4c", "keywords type": "ORGANIZATION"}
+{"text": "@_raphael_kre", "time": 1572014879, "sentiments": "0.0", "keywords name": "@_raphael_kre", "keywords type": "OTHER"}
+{"text": "\ud83d\ude22", "sentiments": "-0.20000000298", "time": 1572034933}
+{"text": "\ud83d\ude14\ud83d\ude14\ud83d\ude2d\ud83d\ude2d", "time": 1572035123, "sentiments": "-0.300000011921", "keywords name": "\ud83d\ude14\ud83d\ude14\ud83d\ude2d\ud83d\ude2d", "keywords type": "OTHER"}
+{"text": "Lugar t\u00e3o bom \ud83d\ude25", "time": 1572035335, "sentiments": "0.0", "keywords name": "Lugar t\u00e3o bom", "keywords type": "ORGANIZATION"}
+{"text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22", "time": 1572035355, "sentiments": "-0.20000000298", "keywords name": "\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83d\ude22", "keywords type": "PERSON"}
+{"text": "\ud83d\ude21\ud83d\ude21", "sentiments": "-0.20000000298", "time": 1572035479}
+{"text": "\ud83d\ude2d", "sentiments": "0.0", "time": 1572035608}
+{"text": "MDS\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d", "time": 1572035644, "sentiments": "-0.20000000298", "keywords name": "MDS\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d", "keywords type": "ORGANIZATION"}
+{"text": "Lugar t\u00e3o bonito?\ud83d\ude19\ud83d\ude19\ud83d\ude19", "time": 1572036214, "sentiments": "0.5", "keywords name": "bonito", "keywords type": "OTHER"}
+{"text": "Triste demais!", "time": 1572036429, "sentiments": "-0.699999988079", "keywords name": "Triste demais", "keywords type": "OTHER"}
+{"text": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d", "time": 1572036735, "sentiments": "-0.20000000298", "keywords name": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d", "keywords type": "PERSON"}
+{"text": "\ud83d\ude28\ud83d\ude1e", "sentiments": "-0.300000011921", "time": 1572036913}
+{"text": "@whinderssonnunes voc\u00ea viu isso?", "time": 1572036942, "sentiments": "-0.699999988079", "keywords name": "@whinderssonnunes voc\u00ea viu isso", "keywords type": "OTHER"}
+{"text": "\ud83d\ude4f\ud83d\ude4f\ud83d\udda4", "sentiments": "0.20000000298", "time": 1572037227}
+{"text": "Que triste.", "time": 1572037409, "sentiments": "-0.5", "keywords name": "Que triste", "keywords type": "OTHER"}
+{"text": "\ud83d\ude2d\ud83d\ude2d", "sentiments": "-0.10000000149", "time": 1572037611}
+{"text": "Poxa!\ud83d\ude2d\u2639\ufe0f", "time": 1572037671, "sentiments": "0.0", "keywords name": "Poxa", "keywords type": "OTHER"}
+{"text": "Lament\u00e1vel!", "time": 1572038632, "sentiments": "0.10000000149", "keywords name": "Lament\u00e1vel", "keywords type": "OTHER"}
+{"text": "\ud83d\ude22\ud83d\ude22\ud83d\ude22", "sentiments": "-0.20000000298", "time": 1572039091}
+{"text": "Engra\u00e7ado que at\u00e9 agora n\u00e3o vi nem uma ONG vir defender o nordeste???", "time": 1572039139, "sentiments": "-0.10000000149", "keywords name": "defender o nordeste", "keywords type": "OTHER"}
+{"text": "\ud83d\ude14\ud83d\ude14", "sentiments": "-0.300000011921", "time": 1572039742}
+{"text": "N\u00e3o t\u00f4 acreditando gente, miseric\u00f3rdia senhor!", "time": 1572040764, "sentiments": "-0.40000000596", "keywords name": "miseric\u00f3rdia senhor", "keywords type": "OTHER"}
+{"text": "@geffersonfortes e nem o estado.", "time": 1572042764, "sentiments": "0.10000000149", "keywords name": "@geffersonfortes e nem o estado", "keywords type": "PERSON"}
+{"text": "Putzzzzz", "time": 1572043264, "sentiments": "0.0", "keywords name": "Putzzzzz", "keywords type": "OTHER"}
+{"text": "@julianas_br esse e que n\u00e3o t\u00e1 nem a\u00ed mesmo", "time": 1572044212, "sentiments": "-0.10000000149", "keywords name": "@julianas_br esse e que n\u00e3o t\u00e1 nem a\u00ed mesmo", "keywords type": "WORK_OF_ART"}
+{"text": "\ud83d\ude29", "sentiments": "0.0", "time": 1572044535}
+{"text": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d", "sentiments": "-0.10000000149", "time": 1572044704}
+{"text": "Cad\u00ea as \"ONGS\"????", "time": 1572044903, "sentiments": "0.0", "keywords name": "ONGS", "keywords type": "WORK_OF_ART"}
+{"text": "\ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31", "time": 1572045805, "sentiments": "0.0", "keywords name": "\ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31", "keywords type": "PERSON"}
+{"text": "Cad\u00ea os Artistas? Macron? ONU? ONGS? Anita?", "time": 1572046290, "sentiments": "0.0", "keywords name": "ONGS", "keywords type": "OTHER"}
+{"text": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2dDeus fz o homem inteligente e o homem se fz  de animal!", "time": 1572048120, "sentiments": "0.20000000298", "keywords name": "Deus fz o homem inteligente eo homem se fz de", "keywords type": "WORK_OF_ART"}
+{"text": "@minepomuceno", "time": 1572048663, "sentiments": "0.0", "keywords name": "@minepomuceno", "keywords type": "OTHER"}
+{"text": "\ud83d\ude29", "sentiments": "0.0", "time": 1572048701}
+{"text": "@paulohlira meu deus! :(", "time": 1572049445, "sentiments": "-0.300000011921", "keywords name": "@paulohlira", "keywords type": "PERSON"}
+{"text": "Nossa", "time": 1572051283, "sentiments": "0.0", "keywords name": "Nossa", "keywords type": "ORGANIZATION"}
+{"text": "\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f, ohhhh, varada....", "time": 1572052248, "sentiments": "0.40000000596", "keywords name": "\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f\u2620\ufe0f", "keywords type": "PERSON"}
+{"text": "E uma tristeza pra o nosso deste sempre nunca \u00e9 bem visto, s\u00f3 quem sofre \u00e9 o menos favorecidos. Lament\u00e1vel", "time": 1572078690, "sentiments": "-0.300000011921", "keywords name": "Lament\u00e1vel", "keywords type": "OTHER"}
+{"text": "\u00c9 verdade,em setembro fomos ao delta e l\u00e1 j\u00e1 vimos essas manchasse \u00f3leo na areia da praia ,achamos estranhos  e ficamos perguntando como aquilo foi parar ali ? Agora sabemos.", "time": 1572093270, "sentiments": "0.20000000298", "keywords name": "Agora sabemos", "keywords type": "OTHER"}
+{"text": "\ud83d\ude22", "sentiments": "-0.20000000298", "time": 1572095121}
+{"text": "@assai.marques", "time": 1572104144, "sentiments": "0.10000000149", "keywords name": "marques", "keywords type": "OTHER"}
+{"text": "\ud83d\ude22", "sentiments": "-0.20000000298", "time": 1572105351}
+{"text": "@pedro_mpneto , est\u00e3o procurando girafas na Amaz\u00f4nia.", "time": 1572110920, "sentiments": "0.0", "keywords name": "est\u00e3o procurando girafas na Amaz\u00f4nia", "keywords type": "PERSON"}
+{"text": "@naiaraabrito descaso!!", "time": 1572120186, "sentiments": "0.0", "keywords name": "@naiaraabrito", "keywords type": "OTHER"}
+{"text": "Che onore grazie mille \ud83d\ude0d\u2764\ufe0f", "time": 1572088049, "sentiments": "0.899999976158", "keywords name": "Che onore grazie mille \ud83d\ude0d\u2764\ufe0f", "keywords type": "OTHER"}
+{"text": "continuerai a portare solo auto italiane o ti allargherai  anche a muscle car e jdm ?", "time": 1572088469, "sentiments": "0.0", "keywords name": "muscle car e jdm", "keywords type": "OTHER"}
+{"text": "fiu fiu... \ud83d\ude0d\ud83e\udd2a", "sentiments": "0.40000000596", "time": 1572089913}
+{"text": "Una delle Livree pi\u00f9 belle mai viste...... e tra l\u2019altro azzeccatissime sulla Regina \ud83d\udc51 Lancia Delta.", "time": 1572090596, "sentiments": "0.20000000298", "keywords name": "Una delle Livree pi\u00f9 belle mai viste... e tra l'altro azzeccatissime sulla", "keywords type": "WORK_OF_ART"}
+{"text": "\ud83d\ude0d", "sentiments": "0.300000011921", "time": 1572090733}
+{"text": "\u2764\ufe0f\ud83d\udc4d\ud83c\udde7\ud83c\uddea", "time": 1572095473, "sentiments": "0.20000000298", "keywords name": "\u2764\ufe0f\ud83d\udc4d\ud83c\udde7\ud83c\uddea", "keywords type": "PERSON"}
+{"text": "Recalde + del bouno+ Lancia \ud83d\ude0d", "time": 1572098506, "sentiments": "0.40000000596", "keywords name": "Recalde + del bouno+ Lancia \ud83d\ude0d", "keywords type": "PERSON"}
+{"text": "@wrc__legends Grazie a te!", "time": 1572104760, "sentiments": "0.5", "keywords name": "te", "keywords type": "OTHER"}
+{"text": "@esteeseaquel Paradiso \ud83d\ude0d", "time": 1572104786, "sentiments": "0.40000000596", "keywords name": "Paradiso", "keywords type": "LOCATION"}
+{"text": "#homensnapolicia #napolicia #policia #policial #policiacivil #delegado #delegadodepolicia #delegadodepoliciacivil #deltas #delegadosdepolicia #delegados #autoridadepolicial #operacionais #loucosporarmas #policiabrasileira #delegadodepoliciacivil #carreiraspoliciais #policianacional #delta #concursospoliciais #avidadopolicialimporta #policia_br #policiagram #policia24h #qap #qap24h #policiadobrasil #motivacional #carreirapolicial #PCSP", "time": 1572121977, "sentiments": "0.20000000298", "keywords name": "#delta #concursospoliciais", "keywords type": "OTHER"}
+{"text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "time": 1572122106, "sentiments": "0.40000000596", "keywords name": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "keywords type": "PERSON"}
+{"text": "Miseric\u00f3rdia \ud83d\udd25", "time": 1572122444, "sentiments": "0.5", "keywords name": "Miseric\u00f3rdia", "keywords type": "LOCATION"}
+{"text": "Guapo", "time": 1572122634, "sentiments": "0.899999976158", "keywords name": "Guapo", "keywords type": "ORGANIZATION"}
+{"text": "Eita que beleza\ud83d\ude0d", "time": 1572123639, "sentiments": "0.40000000596", "keywords name": "Eita que beleza\ud83d\ude0d", "keywords type": "PERSON"}
+{"text": "\ud83d\ude0d\ud83d\udc4f", "sentiments": "0.40000000596", "time": 1572123672}
+{"text": "Sorria aben\u00e7oado,vc est\u00e1 sendo filmado.Rs \ud83d\ude00", "time": 1572124091, "sentiments": "0.40000000596", "keywords name": "sendo filmado.Rs", "keywords type": "PERSON"}
+{"text": "Lindo", "time": 1572124124, "sentiments": "0.600000023842", "keywords name": "Lindo", "keywords type": "OTHER"}
+{"text": "\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d", "sentiments": "0.40000000596", "time": 1572124306}
+{"text": "\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb", "time": 1572124452, "sentiments": "0.0", "keywords name": "\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb", "keywords type": "PERSON"}
+{"text": "\ud83d\udc4f\ud83c\udf39\ud83d\ude18", "sentiments": "0.300000011921", "time": 1572125006}
+{"text": "\u00c9 pr\u00e9 requisito ter essa beleza toda pra der delegado? \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d", "time": 1572125033, "sentiments": "0.10000000149", "keywords name": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d", "keywords type": "PERSON"}
+{"text": "\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb", "time": 1572125293, "sentiments": "0.300000011921", "keywords name": "\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb", "keywords type": "PERSON"}
+{"text": "Beautiful dress\ud83d\ude0d", "time": 1572020310, "sentiments": "0.899999976158", "keywords name": "dress", "keywords type": "CONSUMER_GOOD"}
+{"text": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572021507, "sentiments": "0.0", "keywords name": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "keywords type": "PERSON"}
+{"text": "\ud83d\ude0d", "sentiments": "0.300000011921", "time": 1572036657}
+{"text": "\ud83d\ude0d so beautiful", "time": 1572050767, "sentiments": "0.699999988079", "keywords name": "\ud83d\ude0d", "keywords type": "OTHER"}
+{"text": "Timeless. Gorgeous. Perfect. \u2764\ufe0f", "time": 1572080095, "sentiments": "0.699999988079", "keywords name": "Timeless", "keywords type": "OTHER"}
+{"text": "Ale dzik \ud83d\udd25", "time": 1572093043, "sentiments": "0.600000023842", "keywords name": "Ale dzik", "keywords type": "PERSON"}
+{"text": "@elizuchha Paczaj dzio\u0142cha", "time": 1572096706, "sentiments": "0.0", "keywords name": "Paczaj dzio\u0142cha", "keywords type": "OTHER"}
+{"text": "Intemporelle ...", "time": 1572122920, "sentiments": "0.10000000149", "keywords name": "Intemporelle", "keywords type": "OTHER"}
+{"text": "Kocham te kszta\u0142ty", "time": 1572123514, "sentiments": "0.10000000149", "keywords name": "te kszta\u0142ty", "keywords type": "OTHER"}
+{"text": "Please fllow my art works", "time": 1572125441, "sentiments": "0.10000000149", "keywords name": "art works", "keywords type": "WORK_OF_ART"}
+{"text": "Amazing \ud83d\ude0d", "sentiments": "0.899999976158", "time": 1572125016}
+{"text": "SDV \ud83d\udc97\ud83d\udc97\ud83d\udc97", "time": 1572124785, "sentiments": "0.40000000596", "keywords name": "SDV \ud83d\udc97\ud83d\udc97\ud83d\udc97", "keywords type": "OTHER"}
+{"text": "Let\u2019s gain together , follow for follow back immediately \ud83d\udd25\ud83d\udd25\ud83d\udd25", "sentiments": "0.5", "time": 1572124851}
+{"text": "Let\u2019s gain together , follow for follow back immediately \ud83d\udd25\ud83d\udd25\ud83d\udd25", "sentiments": "0.5", "time": 1572124854}
+{"text": "Let\u2019s gain together , follow for follow back immediately \ud83d\udd25\ud83d\udd25\ud83d\udd25", "sentiments": "0.5", "time": 1572124858}
+{"text": "Ifb", "time": 1572125509, "sentiments": "0.0", "keywords name": "Ifb", "keywords type": "OTHER"}
+{"text": "Ifb", "time": 1572125511, "sentiments": "0.0", "keywords name": "Ifb", "keywords type": "OTHER"}
+{"text": "Gr", "time": 1572125826, "sentiments": "0.20000000298", "keywords name": "Gr", "keywords type": "LOCATION"}
+{"text": "Gt", "time": 1572125827, "sentiments": "0.20000000298", "keywords name": "Gt", "keywords type": "OTHER"}
+{"text": "Gt", "time": 1572125840, "sentiments": "0.20000000298", "keywords name": "Gt", "keywords type": "OTHER"}
+{"text": "Gt", "time": 1572125841, "sentiments": "0.20000000298", "keywords name": "Gt", "keywords type": "OTHER"}
+{"text": "Gt", "time": 1572125843, "sentiments": "0.20000000298", "keywords name": "Gt", "keywords type": "OTHER"}
+{"text": "#plane #planes #airline #delta #airport #fortlauderdale #florida #america #airplane #airplanes #aircraft #aeroplane #boeing #aviation #aviationlovers #aviationphotography #megaplane #instaaviation #instagramaviation #instaviation #avgeek #planespotter #planespotting #travel #aviationgeek #summer #deltaairlines", "time": 1572124578, "sentiments": "0.600000023842", "keywords name": "#instaaviation #instagramaviation #instaviation #avgeek #planespotter #planespotting #travel #aviationgeek", "keywords type": "OTHER"}
+{"text": "\ud83d\ude4c\ud83c\udffc\ud83d\udcaf\ud83e\udd96", "time": 1572124512, "sentiments": "0.40000000596", "keywords name": "\ud83d\ude4c\ud83c\udffc\ud83d\udcaf\ud83e\udd96", "keywords type": "PERSON"}
+{"text": "Lol clever girl~\ud83d\ude0f\ud83d\ude0f", "time": 1572124558, "sentiments": "0.600000023842", "keywords name": "girl", "keywords type": "PERSON"}
+{"text": "#lashlift#lashliftandtint#lashes#longlashes#eyeenvyserum#canada#vancouverlashlift#surreylashlift#burnabylashlift#lashlove#certifiedlashtech#lashgoals#lashboss#classiclashes#surrey#burnaby#newwestminister#vancouver#delta#sugarlashpro#keratinlashlift#keratin#yumikeratin#dailyhive#lougheed#604lashes#lashliftvancouver#lashesquotes", "time": 1572124555, "sentiments": "0.10000000149", "keywords name": "604", "keywords type": "NUMBER"}
+{"text": "Is this red?", "time": 1572124735, "sentiments": "0.0", "keywords name": "red", "keywords type": "OTHER"}
+{"text": "Para vos @lusedova que te gustan las bocas!! \ud83d\udc8b", "time": 1572124517, "sentiments": "0.300000011921", "keywords name": "@lusedova que te gustan las bocas", "keywords type": "PERSON"}
+{"text": "\ud83d\ude0d", "sentiments": "0.300000011921", "time": 1572124011}
+{"text": "That\u2019s a good day! \ud83d\udc4dyou should give our page a look and maybe give us a follow we post similar stuff!", "time": 1572123566, "sentiments": "0.600000023842", "keywords name": "stuff", "keywords type": "OTHER"}
+{"text": "did u see another kid down there", "time": 1572125273, "sentiments": "0.0", "keywords name": "kid", "keywords type": "PERSON"}
+{"text": "Mount Diablo in background.  Nice!", "time": 1572124468, "sentiments": "0.5", "keywords name": "Mount Diablo", "keywords type": "LOCATION"}
+{"text": "Nice pic", "time": 1572123158, "sentiments": "0.699999988079", "keywords name": "pic", "keywords type": "WORK_OF_ART"}
+{"text": "@jgreene81 thank you!", "time": 1572123499, "sentiments": "0.20000000298", "keywords name": "@jgreene81", "keywords type": "PERSON"}
+{"text": "@15kmiles no problem!", "time": 1572124208, "sentiments": "0.40000000596", "keywords name": "15", "keywords type": "NUMBER"}
+{"text": "#lashlift#lashliftandtint#lashes#longlashes#eyeenvyserum#canada#vancouverlashlift#surreylashlift#burnabylashlift#lashlove#certifiedlashtech#lashgoals#lashboss#classiclashes#surrey#burnaby#newwestminister#vancouver#delta#sugarlashpro#keratinlashlift#keratin#yumikeratin#dailyhive#lougheed#604lashes#lashliftvancouver#lashesquotes", "time": 1572123084, "sentiments": "0.10000000149", "keywords name": "604", "keywords type": "NUMBER"}
+{"text": "\ud83d\udd25\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "time": 1572116251, "sentiments": "0.699999988079", "keywords name": "\ud83d\udd25\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "keywords type": "PERSON"}
+{"text": "Classy \ud83d\ude0d\u2764", "sentiments": "0.899999976158", "time": 1572116576}
+{"text": "@ojinere_gracey Thanks honey \ud83d\ude0d", "time": 1572116724, "sentiments": "0.800000011921", "keywords name": "honey", "keywords type": "OTHER"}
+{"text": "Beautiful \ud83d\ude0d", "sentiments": "0.899999976158", "time": 1572117134}
+{"text": "Bby gyal", "time": 1572117952, "sentiments": "0.0", "keywords name": "Bby gyal", "keywords type": "OTHER"}
+{"text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 And classy", "sentiments": "0.699999988079", "time": 1572118395}
+{"text": "\ud83d\udda4", "sentiments": "0.0", "time": 1572118600}
+{"text": "Nice", "time": 1572119232, "sentiments": "0.699999988079", "keywords name": "Nice", "keywords type": "ORGANIZATION"}
+{"text": "Baby baby \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f", "time": 1572119908, "sentiments": "0.20000000298", "keywords name": "Baby baby", "keywords type": "PERSON"}
+{"text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d", "time": 1572120330, "sentiments": "0.300000011921", "keywords name": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d", "keywords type": "PERSON"}
+{"text": "@glo_ree_yah boo I site you \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "time": 1572121162, "sentiments": "0.699999988079", "keywords name": "site", "keywords type": "OTHER"}
+{"text": "@lw_couture_brand baddest tailor \ud83d\ude4c\ud83d\ude4c\ud83d\ude4c\ud83d\ude4c", "time": 1572121179, "sentiments": "0.600000023842", "keywords name": "@lw_couture_brand", "keywords type": "OTHER"}
+{"text": "@merit_gold247 I love you honey", "time": 1572121190, "sentiments": "0.800000011921", "keywords name": "honey", "keywords type": "OTHER"}
+{"text": "Beautiful", "sentiments": "0.800000011921", "time": 1572121528}
+{"text": "So much beauty", "time": 1572121610, "sentiments": "0.800000011921", "keywords name": "beauty", "keywords type": "OTHER"}
+{"text": "\u2764\ufe0f", "sentiments": "0.0", "time": 1572121929}
+{"text": "\ud83d\udd25\ud83d\udd25", "sentiments": "0.600000023842", "time": 1572125286}
+{"text": "Star trek", "time": 1572110614, "sentiments": "0.10000000149", "keywords name": "Star trek", "keywords type": "WORK_OF_ART"}
+{"text": "Omg that\u2019s hilarious", "sentiments": "0.800000011921", "time": 1572113159}
+{"text": "Roses are pink, and the sky is blue. I lost the rhyme, fuck that shit. I miss my best flatmate", "time": 1572122548, "sentiments": "-0.10000000149", "keywords name": "shit", "keywords type": "OTHER"}
+{"text": "@pk.slusarski \u2764\ufe0f I miss you too b****.", "time": 1572122663, "sentiments": "0.0", "keywords name": "@pk.slusarski", "keywords type": "PERSON"}
+{"text": "Hello Cutie\ud83d\ude0d, We'd love to have you in our Shine Family\ud83d\udc36. Dm US to collab\u2728", "time": 1572122372, "sentiments": "0.300000011921", "keywords name": "Shine Family\ud83d\udc36", "keywords type": "OTHER"}
+{"text": "#homensnapolicia #napolicia #policia #policial #policiacivil #delegado #delegadodepolicia #delegadodepoliciacivil #deltas #delegadosdepolicia #delegados #autoridadepolicial #operacionais #loucosporarmas #policiabrasileira #delegadodepoliciacivil #carreiraspoliciais #policianacional #delta #concursospoliciais #avidadopolicialimporta #policia_br #policiagram #policia24h #qap #qap24h #policiadobrasil #motivacional #carreirapolicial #PCSP", "time": 1572121977, "sentiments": "0.20000000298", "keywords name": "#delta #concursospoliciais", "keywords type": "OTHER"}
+{"text": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "time": 1572122106, "sentiments": "0.40000000596", "keywords name": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d", "keywords type": "PERSON"}
+{"text": "Miseric\u00f3rdia \ud83d\udd25", "time": 1572122444, "sentiments": "0.5", "keywords name": "Miseric\u00f3rdia", "keywords type": "LOCATION"}
+{"text": "Guapo", "time": 1572122634, "sentiments": "0.899999976158", "keywords name": "Guapo", "keywords type": "ORGANIZATION"}
+{"text": "Eita que beleza\ud83d\ude0d", "time": 1572123639, "sentiments": "0.40000000596", "keywords name": "Eita que beleza\ud83d\ude0d", "keywords type": "PERSON"}
+{"text": "\ud83d\ude0d\ud83d\udc4f", "sentiments": "0.40000000596", "time": 1572123672}
+{"text": "Sorria aben\u00e7oado,vc est\u00e1 sendo filmado.Rs \ud83d\ude00", "time": 1572124091, "sentiments": "0.40000000596", "keywords name": "sendo filmado.Rs", "keywords type": "PERSON"}
+{"text": "Lindo", "time": 1572124124, "sentiments": "0.600000023842", "keywords name": "Lindo", "keywords type": "OTHER"}
+{"text": "\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d", "sentiments": "0.40000000596", "time": 1572124306}
+{"text": "\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb", "time": 1572124452, "sentiments": "0.0", "keywords name": "\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb\ud83d\udc4a\ud83c\udffb", "keywords type": "PERSON"}
+{"text": "\ud83d\udc4f\ud83c\udf39\ud83d\ude18", "sentiments": "0.300000011921", "time": 1572125006}
+{"text": "\u00c9 pr\u00e9 requisito ter essa beleza toda pra der delegado? \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d", "time": 1572125033, "sentiments": "0.10000000149", "keywords name": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d", "keywords type": "PERSON"}
+{"text": "\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb", "time": 1572125293, "sentiments": "0.300000011921", "keywords name": "\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb", "keywords type": "PERSON"}
+{"text": "#meettherogers2019", "sentiments": "0.0", "time": 1572123400}
+{"text": "@adnaribeiroo", "time": 1572125797, "sentiments": "0.0", "keywords name": "@adnaribeiroo", "keywords type": "OTHER"}
+{"text": "\ud83d\udc4f\ud83d\udc4f\ud83d\ude4b\u200d\u2642\ufe0f\ud83d\ude4b\u200d\u2642\ufe0f", "time": 1572123948, "sentiments": "0.300000011921", "keywords name": "\ud83d\udc4f\ud83d\udc4f\ud83d\ude4b\u200d\u2642\ufe0f\ud83d\ude4b\u200d\u2642\ufe0f", "keywords type": "PERSON"}
+{"text": "\ud83d\ude0d\ud83e\udd24\ud83d\udd25", "sentiments": "0.699999988079", "time": 1572121175}
+{"text": "@glz__photo muy top \ud83d\ude0d", "time": 1572121232, "sentiments": "0.899999976158", "keywords name": "@glz__photo", "keywords type": "PERSON"}
+{"text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23", "time": 1572120986, "sentiments": "0.0", "keywords name": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23", "keywords type": "PERSON"}
+{"text": "\ud83d\ude4c", "sentiments": "0.300000011921", "time": 1572121076}
+{"text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02", "sentiments": "0.20000000298", "time": 1572121151}
+{"text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572121471, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "PERSON"}
+{"text": "Kkkkk @matt.cvm \ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572121609, "sentiments": "0.20000000298", "keywords name": "@matt.cvm \ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "PERSON"}
+{"text": "@flaviaalvesoliveira @dassi_nascimento \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572121847, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "OTHER"}
+{"text": "@claudia.bcarvalho \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572121950, "sentiments": "0.300000011921", "keywords name": "@claudia.bcarvalho \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "PERSON"}
+{"text": "@mabelpippi @andreacustodiomag1 @karlasmend \ud83d\ude06\ud83d\ude06\ud83d\ude06", "time": 1572122001, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude06\ud83d\ude06", "keywords type": "OTHER"}
+{"text": "\ud83e\udd23", "sentiments": "0.0", "time": 1572122062}
+{"text": "Kkkkkkkkkk", "time": 1572122081, "sentiments": "0.0", "keywords name": "Kkkkkkkkkk", "keywords type": "PERSON"}
+{"text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572122297, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "PERSON"}
+{"text": "\ud83d\ude04\ud83d\ude04\ud83d\ude04\ud83d\ude04", "time": 1572122515, "sentiments": "0.40000000596", "keywords name": "\ud83d\ude04\ud83d\ude04\ud83d\ude04\ud83d\ude04", "keywords type": "PERSON"}
+{"text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572122616, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "PERSON"}
+{"text": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572122656, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "PERSON"}
+{"text": "Hahahahaha", "time": 1572122919, "sentiments": "0.5", "keywords name": "Hahahahaha", "keywords type": "OTHER"}
+{"text": "Kkkkkkkk", "time": 1572122986, "sentiments": "0.0", "keywords name": "Kkkkkkkk", "keywords type": "PERSON"}
+{"text": "@claudia.bcarvalho \ud83d\ude48\ud83e\udd23\ud83e\udd23\ud83e\udd23", "time": 1572123923, "sentiments": "0.10000000149", "keywords name": "@claudia.bcarvalho \ud83d\ude48\ud83e\udd23\ud83e\udd23\ud83e\udd23", "keywords type": "PERSON"}
+{"text": "kkkkkkkkkkkkkkkkkk", "time": 1572125006, "sentiments": "0.0", "keywords name": "kkkkkkkkkkkkkkkkkk", "keywords type": "PERSON"}
+{"text": "\ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23", "time": 1572125271, "sentiments": "0.20000000298", "keywords name": "\ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23", "keywords type": "PERSON"}
+{"text": "@thayrezmendez @andressa.maria1415 \ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572125563, "sentiments": "0.20000000298", "keywords name": "@andressa.maria1415 \ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "OTHER"}
+{"text": "@brunaaraujo_araujo.salao \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572125598, "sentiments": "0.300000011921", "keywords name": "@brunaaraujo_araujo.salao \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "PERSON"}
+{"text": "\ud83d\udc4f\ud83c\udfff\ud83d\udc4f\ud83c\udfff\ud83d\udc4f\ud83c\udfff\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572125859, "sentiments": "0.699999988079", "keywords name": "\ud83d\udc4f\ud83c\udfff\ud83d\udc4f\ud83c\udfff\ud83d\udc4f\ud83c\udfff\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "PERSON"}
+{"text": "\ud83d\ude05\ud83d\ude02\ud83d\ude02\ud83d\ude02", "time": 1572126039, "sentiments": "0.300000011921", "keywords name": "\ud83d\ude05\ud83d\ude02\ud83d\ude02\ud83d\ude02", "keywords type": "PERSON"}
+{"text": "El cambio en Delta \ud83d\udd1d\ud83d\udd1d\ud83d\udd1d te felicito hermano ! Se nota tu crecimiento personal", "time": 1572120991, "sentiments": "0.800000011921", "keywords name": "Delta \ud83d\udd1d\ud83d\udd1d\ud83d\udd1d te felicito hermano", "keywords type": "PERSON"}
+{"text": "@luis_betancourtg En #delta creces si o si mi hermano. Apoyo constante\ud83d\udcaf", "time": 1572121153, "sentiments": "0.600000023842", "keywords name": "Apoyo constante", "keywords type": "OTHER"}
+{"text": "7 d\u00edas \ud83d\udcaa te contar\u00e9! \ud83d\ude01", "time": 1572121880, "sentiments": "0.300000011921", "keywords name": "7", "keywords type": "NUMBER"}
+{"text": "En cosa sproductivas para mi y mi equipo \ud83d\udcaf \ud83e\udd19\ud83d\ude0e", "time": 1572122445, "sentiments": "0.5", "keywords name": "En cosa sproductivas para mi y mi equipo \ud83d\udcaf \ud83e\udd19\ud83d\ude0e", "keywords type": "WORK_OF_ART"}
+{"text": "I love your post, really it's amazing \ud83d\ude01", "time": 1572122624, "sentiments": "0.899999976158", "keywords name": "post", "keywords type": "WORK_OF_ART"}
+{"text": "@happyface2002uk thanks boss,you can also patronize \ud83d\ude01", "time": 1572122684, "sentiments": "0.800000011921", "keywords name": "thanks boss", "keywords type": "OTHER"}
