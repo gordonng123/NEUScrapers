@@ -31,9 +31,7 @@ search_headers = {
 }
 
 search_params = {
-    'q': 'General Election',
-    'result_type': 'recent',
-    'count': 2
+    'q': 'jetblue',
 }
 
 search_url = '{}1.1/search/tweets.json'.format(base_url)
