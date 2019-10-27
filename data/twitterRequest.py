@@ -35,12 +35,38 @@ search_params = {
     'tweet_mode':'extended'
 }
 
+search_params2 = {
+    'q': 'southwest airlines',
+    'tweet_mode':'extended'
+}
+
+search_params3 = {
+    'q': 'delta airlines',
+    'tweet_mode':'extended'
+}
+
 search_url = '{}1.1/search/tweets.json'.format(base_url)
 
 search_resp = requests.get(search_url, headers=search_headers, params=search_params)
 
 tweet_data = search_resp.json()
 
-output_file = 'twitter.json'
+output_file = 'twitterJetBlue.json'
+with open(output_file, 'w') as out_file:
+    json.dump(tweet_data, out_file)
+
+search_resp = requests.get(search_url, headers=search_headers, params=search_params2)
+
+tweet_data = search_resp.json()
+
+output_file = 'twitterSouthwest.json'
+with open(output_file, 'w') as out_file:
+    json.dump(tweet_data, out_file)
+
+search_resp = requests.get(search_url, headers=search_headers, params=search_params3)
+
+tweet_data = search_resp.json()
+
+output_file = 'twitterDelta.json'
 with open(output_file, 'w') as out_file:
     json.dump(tweet_data, out_file)
