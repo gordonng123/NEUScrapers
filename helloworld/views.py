@@ -29,9 +29,21 @@ from google.cloud.bigtable import row_filters
 from google.cloud import bigquery
 
 import datetime
+import json
+from dateutil import parser, tz
+import datetime
 
+data = []
 
 def index(request):
+    global data
+    bq_client = bigquery.Client()
+    dataset_id = 'jetblue'  # replace with your dataset ID
+    table_id = 'jb_instagram'  # replace with your table ID
+    table_ref = bq_client.dataset(dataset_id).table(table_id)
+    table = bq_client.get_table(table_ref)  # API request
+    errors = bq_client.insert_rows(table, data)  # API request
+    print(errors)
     return HttpResponse(
         'Hello, World. This is Django running on Google App Engine')
 
@@ -61,21 +73,29 @@ def sc():
         'http': 'http://188.166.119.186',
     }
 
-    medias = instagram.get_medias_by_tag('jetblue', count=2000)
+    medias = instagram.get_medias_by_tag('jetblue', count=1000)
     instagram.set_proxies(proxies)
+    global data
     data = []
-    for media in medias:
-        data.append({"text": media.caption, "time": media.created_time})
-        sample_analyze_sentiment(media.caption, data[-1])
-        sample_analyze_entities(media.caption, data[-1])
-
+    i = 0
     bq_client = bigquery.Client()
     dataset_id = 'jetblue'  # replace with your dataset ID
     table_id = 'jb_instagram'  # replace with your table ID
     table_ref = bq_client.dataset(dataset_id).table(table_id)
     table = bq_client.get_table(table_ref)  # API request
 
-    errors = bq_client.insert_rows(table, data)  # API request
+    for media in medias:
+        i+=1
+        temp_data = []
+        print("{} out of 1000".format(i))
+        temp_data.append({"text": media.caption, "time": media.created_time})
+        sample_analyze_sentiment(media.caption, temp_data[-1])
+        sample_analyze_entities(media.caption, temp_data[-1])
+        errors = bq_client.insert_rows(table, temp_data)  # API request
+        data.append(temp_data[0])
+
+
+
     assert errors == []
 
 
@@ -100,7 +120,7 @@ def sample_analyze_entities(text_content, array_name):
             largest_salience = entity.salience
             array_name['keywords_name'] = format(entity.name)
             array_name['keywords_type'] = format(enums.Entity.Type(entity.type).name)
-            print(u"Salience score: {}".format(entity.salience))
+            # print(u"Salience score: {}".format(entity.salience))
 
 
 def sample_analyze_sentiment(text_content, array_name):
@@ -123,6 +143,52 @@ def sample_analyze_sentiment(text_content, array_name):
 
     response = l_client.analyze_sentiment(document, encoding_type=encoding_type)
     # Get overall sentiment of the input document
-    print(u"Document sentiment score: {}".format(
-        response.document_sentiment.score))
+    # print(u"Document sentiment score: {}".format(
+     #    response.document_sentiment.score))
     array_name["sentiments"] = format(response.document_sentiment.score)
+
+
+def analyze_twitter_json_delta(input_file):
+    with open(input_file, encoding='utf-8', mode='r') as in_file:
+        data = json.load(in_file)
+
+        final_data = []
+        for tweets in data["statuses"]:
+            date = parser.parse(tweets['created_at'])
+            date_num = (date-datetime.datetime(1970,1,1).replace(tzinfo=tz.tzutc())).total_seconds()
+
+            final_data.append({"text": tweets['full_text'], "time": date_num})
+            sample_analyze_sentiment(tweets['full_text'], final_data[-1])
+            sample_analyze_entities(tweets['full_text'], final_data[-1])
+
+        bq_client = bigquery.Client()
+        dataset_id = 'delta'  # replace with your dataset ID
+        table_id = 'd_twitter'  # replace with your table ID
+        table_ref = bq_client.dataset(dataset_id).table(table_id)
+        table = bq_client.get_table(table_ref)  # API request
+
+        errors = bq_client.insert_rows(table, final_data)  # API request
+        assert errors == []
+
+
+def analyze_twitter_json_jetBlue(input_file):
+    with open(input_file, encoding='utf-8', mode='r') as in_file:
+        data = json.load(in_file)
+
+        final_data = []
+        for tweets in data["statuses"]:
+            date = parser.parse(tweets['created_at'])
+            date_num = (date-datetime.datetime(1970,1,1).replace(tzinfo=tz.tzutc())).total_seconds()
+
+            final_data.append({"text": tweets['full_text'], "time": date_num})
+            sample_analyze_sentiment(tweets['full_text'], final_data[-1])
+            sample_analyze_entities(tweets['full_text'], final_data[-1])
+
+        bq_client = bigquery.Client()
+        dataset_id = 'jetblue'  # replace with your dataset ID
+        table_id = 'jb_twitter'  # replace with your table ID
+        table_ref = bq_client.dataset(dataset_id).table(table_id)
+        table = bq_client.get_table(table_ref)  # API request
+
+        errors = bq_client.insert_rows(table, final_data)  # API request
+        assert errors == []
