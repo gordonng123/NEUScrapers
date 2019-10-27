@@ -66,13 +66,14 @@ def sample_analyze_sentiment(text_content, itemname):
 
 
 if __name__ == '__main__':
-    #jet blue data set
+    #jet blue data set 
     # ../data/jetblue_parsed.json
 
-    #example dataset
+    #example dataset 
     # reviews/exp.json
-    with open('../data/jetblue_parsed.json') as f:
 
+    #
+   with open('../data/delta_parsed.json') as f:
         data = json.load(f)
         print(data)
 

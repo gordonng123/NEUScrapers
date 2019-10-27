@@ -135,7 +135,7 @@ if __name__ == '__main__':
     #reviews/exp.json
 
     #open the json file dataset 
-   with open('../data/delta_parsed.json') as f:
+   with open('delta_parsed.json') as f:
         data = json.load(f)
         #print(data) 
     
@@ -148,5 +148,5 @@ if __name__ == '__main__':
        sample_analyze_entities(x,distro)
 
 
-with open('delta_with_sentiment.json', 'w') as out:
+with open('hello.json', 'w') as out:
     json.dump(data, out)
