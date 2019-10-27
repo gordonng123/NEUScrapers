@@ -13,6 +13,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import io
+import os
+
 from django.http import HttpResponse
 
 from igramscraper.instagram import Instagram  # pylint: disable=no-name-in-module
@@ -20,10 +23,8 @@ from igramscraper.instagram import Instagram  # pylint: disable=no-name-in-modul
 from google.cloud import language_v1
 from google.cloud.language_v1 import enums
 from google.cloud import storage
-
-from google.cloud import bigtable
-from google.cloud.bigtable import column_family
-from google.cloud.bigtable import row_filters
+from google.cloud import vision
+from google.cloud.vision import types
 
 from google.cloud import bigquery
 
@@ -40,6 +41,27 @@ def scrape(request):
     return HttpResponse(
         'Hello, World. This is Django running on Google App Engine')
 
+def detect_logos_uri(uri):
+    """Detects logos in the file located in Google Cloud Storage or on the Web.
+    """
+    client = vision.ImageAnnotatorClient()
+    image = vision.types.Image()
+    image.source.image_uri = uri
+
+    response = client.logo_detection(image=image)
+    logos = response.logo_annotations
+    return logos
+
+def detect_text_uri(uri):
+    """Detects text in the file located in Google Cloud Storage or on the Web.
+    """
+    client = vision.ImageAnnotatorClient()
+    image = vision.types.Image()
+    image.source.image_uri = uri
+
+    response = client.text_detection(image=image)
+    texts = response.text_annotations
+    return texts
 
 def sc():
     instagram = Instagram()
@@ -50,11 +72,29 @@ def sc():
         'https': 'http://217.64.109.231',
     }
 
-    medias = instagram.get_medias_by_tag('vacation', count=200)
+    medias = instagram.get_medias_by_tag('flying', count=1000)
+
     instagram.set_proxies(proxies)
     data = []
     for media in medias:
-        data.append((media.caption, media.created_time))
+        if (media.type == 'image'):
+            flag = False
+            url = media.image_high_resolution_url
+            logos = detect_logos_uri(url)
+            texts = detect_text_uri(url)
+            for logo in logos:
+                logoN = logo.description.lower()
+                if((logoN == 'delta air lines') or (logoN == 'jetblue') or (logoN == 'southwest airlines')):
+                    flag = True
+                    print(logoN)
+            for text in texts:
+                comp = text.description.lower()
+                if((comp == 'delta') or (comp == 'jetblue') or (comp == 'southwest')):
+                    flag = True
+                    print(comp)
+            if (flag):
+                data.append((media.created_time, media.caption, location_name))
+
         # textArray.append(media.caption)
         # data_things = {data}
         # sample_analyze_sentiment(media.caption, data[-1])
@@ -100,10 +140,9 @@ def sc():
     for row in partial_rows:
         cell = row.cells[column_family_id][column][0]
         print(cell.value.decode('utf-8'))
-    """
-
+""" 
     bq_client = bigquery.Client()
-
+    print(data)
     dataset_id = 'vacationDataset'  # replace with your dataset ID
     # For this sample, the table must already exist and have a defined schema
     table_id = 'list'  # replace with your table ID
@@ -113,10 +152,18 @@ def sc():
     errors = bq_client.insert_rows(table, data)  # API request
 
     assert errors == []
+    
+def test():
+    instagram = Instagram()
+    # instagram.with_credentials('username', 'password', 'path/to/cache/folder')
+    # instagram.login()
+    proxies = {
+        'https': 'http://124.41.213.211',
+        'https': 'http://217.64.109.231',
+    }
 
-
-
-
+    medias = instagram.get_medias_by_tag('vacation', count=1000)
+    print(medias[0].type)
 
 def sample_analyze_sentiment(text_content, array_name):
     """
