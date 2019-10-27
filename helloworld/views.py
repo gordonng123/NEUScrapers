@@ -28,18 +28,25 @@ from google.cloud.bigtable import row_filters
 
 from google.cloud import bigquery
 
-
 import datetime
+
 
 def index(request):
     return HttpResponse(
         'Hello, World. This is Django running on Google App Engine')
 
 
+def clear_table(request):
+    bq_client = bigquery.Client()
+    dataset_id = 'jetblue'  # replace with your dataset ID
+    table_id = 'jb_instagram'  # replace with your table ID
+    table_ref = bq_client.dataset(dataset_id).table(table_id)
+
+
 def scrape(request):
     sc()
     return HttpResponse(
-        'Hello, World. This is Django running on Google App Engine')
+        'Jet Blue scraped on twitter')
 
 
 def sc():
@@ -47,81 +54,53 @@ def sc():
     # instagram.with_credentials('username', 'password', 'path/to/cache/folder')
     # instagram.login()
     proxies = {
-        'https': 'http://124.41.213.211',
-        'https': 'http://217.64.109.231',
+        'http': 'http://113.53.230.167',
+        'http': 'http://115.110.129.134',
+        'http': 'http://13.78.116.29',
+        'http': 'http://185.57.164.167',
+        'http': 'http://188.166.119.186',
     }
 
-    medias = instagram.get_medias_by_tag('jetblue', count=20)
+    medias = instagram.get_medias_by_tag('jetblue', count=2000)
     instagram.set_proxies(proxies)
     data = []
     for media in medias:
-        data.append((media.caption, media.created_time))
-        # textArray.append(media.caption)
-        # data_things = {data}
-        # sample_analyze_sentiment(media.caption, data[-1])
-
-    """
-    table_id = "test"
-    bt_client = bigtable.Client(project='yaleproject', admin=True)
-    instance = bt_client.instance('instagram-jetblue')
-
-    print('Creating the {} table.'.format(table_id))
-    table = instance.table(table_id)
-
-    print('Creating column family cf1 with Max Version GC rule...')
-
-    max_versions_rule = column_family.MaxVersionsGCRule(2)
-    column_family_id = 'cf1'
-    column_families = {column_family_id: max_versions_rule}
-    if not table.exists():
-        table.create(column_families=column_families)
-    else:
-        print("Table {} already exists.".format(table_id))
-
-    print('Writing some greetings to the table.')
-    greetings = ['Hello World!', 'Hello Cloud Bigtable!', 'Hello Python!']
-    rows = []
-    column = 'greeting'.encode()
-    for i in range(1, 100000):
-        row_key = 'greeting{}'.format(i).encode()
-        row = table.row(row_key)
-        row.set_cell(column_family_id,
-                     column,
-                     'Hello World!{}'.format(i),
-                     timestamp=datetime.datetime.utcnow())
-        rows.append(row)
-    table.mutate_rows(rows)
-
-    row_filter = row_filters.CellsColumnLimitFilter(1)
-
-    print('Scanning for all greetings:')
-    partial_rows = table.read_rows(filter_=row_filter)
-
-    counter = 0
-    for row in partial_rows:
-        cell = row.cells[column_family_id][column][0]
-        print(cell.value.decode('utf-8'))
-    """
+        data.append({"text": media.caption, "time": media.created_time})
+        sample_analyze_sentiment(media.caption, data[-1])
+        sample_analyze_entities(media.caption, data[-1])
 
     bq_client = bigquery.Client()
-
-    dataset_id = 'jetblue_instagram'  # replace with your dataset ID
-    # For this sample, the table must already exist and have a defined schema
-    table_id = 'testing'  # replace with your table ID
+    dataset_id = 'jetblue'  # replace with your dataset ID
+    table_id = 'jb_instagram'  # replace with your table ID
     table_ref = bq_client.dataset(dataset_id).table(table_id)
     table = bq_client.get_table(table_ref)  # API request
 
-    rows_to_insert = [
-        (u'Phred Phlyntstone', 32),
-        (u'Wylma Phlyntstone', 29),
-    ]
-
     errors = bq_client.insert_rows(table, data)  # API request
-
     assert errors == []
 
 
+def sample_analyze_entities(text_content, array_name):
+    """
+    Analyzing Entities in a String
 
+    Args:
+      text_content The text content to analyze
+    """
+
+    client = language_v1.LanguageServiceClient()
+    type_ = enums.Document.Type.PLAIN_TEXT
+    language = "en"
+    document = {"content": text_content, "type": type_, "language": language}
+    encoding_type = enums.EncodingType.UTF8
+
+    response = client.analyze_entities(document, encoding_type=encoding_type)
+    largest_salience = 0
+    for entity in response.entities:
+        if largest_salience < entity.salience:
+            largest_salience = entity.salience
+            array_name['keywords_name'] = format(entity.name)
+            array_name['keywords_type'] = format(enums.Entity.Type(entity.type).name)
+            print(u"Salience score: {}".format(entity.salience))
 
 
 def sample_analyze_sentiment(text_content, array_name):
@@ -133,7 +112,6 @@ def sample_analyze_sentiment(text_content, array_name):
     """
 
     l_client = language_v1.LanguageServiceClient()
-
 
     type_ = enums.Document.Type.PLAIN_TEXT
 
@@ -148,16 +126,3 @@ def sample_analyze_sentiment(text_content, array_name):
     print(u"Document sentiment score: {}".format(
         response.document_sentiment.score))
     array_name["sentiments"] = format(response.document_sentiment.score)
-    print(
-        u"Document sentiment magnitude: {}".format(
-            response.document_sentiment.magnitude
-        )
-    )
-    # Get sentiment for all sentences in the document
-    for sentence in response.sentences:
-        print(u"Sentence text: {}".format(sentence.text.content))
-        print(u"Sentence sentiment score: {}".format(sentence.sentiment.score))
-        print(u"Sentence sentiment magnitude: {}".format(
-            sentence.sentiment.magnitude))
-
-    print(u"Language of the text: {}".format(response.language))
